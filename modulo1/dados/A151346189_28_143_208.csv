@@ -1,0 +1,1492 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-LIOdgMPCoEgaBOBpRHSdzMIXC0BQl+3B20hYRhyoDICAcS6GTJ4jRrobBZhDZWO4VGNzMZ56U9kllzZzrsc34Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-2c839d80c3c2a0481a04e06944749dcc.css" />
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-n17DMvaA9F9fyjy3Yfe6zCrYjB6VN7TGAewNAAvt/V5Mw4cW1uf9zpAWqF5cRBzGCEZTVI3f7Ppg975QDqRScg==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-9f5ec332f680f45f5fca3cb761f7bacc.css" />
+    
+    
+    
+    <link crossorigin="anonymous" media="all" integrity="sha512-++q0vpvwTWsRiU0Z3V2e1hz9/sbkdE9/rB3oZTjk9ZmnEb266a3tumC+D2eqncsoMO4WZjoWyfzcJSa+dHPhmw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-fbeab4be9bf04d6b11894d19dd5d9ed6.css" />
+
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-ul9RtgJfZm1iyUoupmkea7xabe9n630q/NHA9nZmxjN4AiGcl0S36clLgwSG/1v6AbDztC8GTl47zC0XSDWG3Q==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-ba5f51b6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-y5F197jdxNz5F7sodSCZT52XMQ3xi0k+eYtZi0QRZj4T0cjgxbiOYTK0zHrmI/kWBIESn3wzC2m0I5BnYXlU3g==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-cb9175f7.js"></script>
+  
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-PCWf+AI4qaR4r+6v4EE/pa3J29hMSeMVJFkcqZleSgCcY7W62SlPRt0hrm+JdzwDPYhnYUEwAkif9i1dxdcxig==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-3c259ff8.js"></script>
+  
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-3bd8mJ8UwCN6R3w54+WeW4MZAjKVOAObpQuYq+CHAV9E2reuhtEPNK3yA/lPmPnjNY8RcxBv86uSXYtpmuQB2g==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-ddb77c98.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-ct3QiK2mvpg7zor9R2psdWnNMM2K32RU4RGRB/7yA5FyZ8H4iY6SNynXc7UaJqzBx6NaReg3GsWJPwW3kgAAig==" type="application/javascript" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-72ddd088.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-EKOvqJ9uTatAt87WxU+OSS4mi7gMUszFbGo4aPErQkjpWLXnrPSeZvK5ngU8OYoIoiVOq+v8dA3C6MF/z2d/kA==" type="application/javascript" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-10a3afa8.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-zkYZSjUFqSifB+Lt76jclFMrfqpcPqevT801RZcoBNCZHRTBKcFrW9OyJoPOzKFv+fZVDRnqdqGsuIv5KOIgZg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-ce46194a.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-VSSd+Yzi2iMS+pibY6hD/WdypxAEdob5F2RMKxuKcAHS2EpFYJPeTXoVxt0NXg03tfj2dka2mEtHS+vjpYSaDw==" type="application/javascript" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-55249df9.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-N+ziqJjVMfWiqeVHdayDHpNRlG5HsF+cgV+pFnMDoTJuvBzgw+ndsepe4NcKAxIS3WMvzMaQcYmd2vrIaoAJVg==" type="application/javascript" data-module-id="./chunk-edit.js" data-src="https://github.githubassets.com/assets/chunk-edit-37ece2a8.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-ejCT9r9E93nir+wK3PibZdMK0J3VXEkbwlgdnOnaUNoiJDI60BMtFt1QwjMU/rLXcjnH0xvgVFINGBFkzvTmRw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-7a3093f6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-Z1wcyOFQHzyMSPqp5DLKrobr3DN2Q6Dz31cfPtw4b2vPs9PX0PrxyDXHpTbIlcZ9qT1M1BNAypHKKw8Lp6Yx/Q==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-675c1cc8.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-Y+VVFzGHo9J5bf4Mrn+RGrh1+IExdybA3C1QqPha3UwkV9RZ75jZgV4DsujViAF0iT9OrLYYHvPk9V6QiXjp3g==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-63e55517.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-mMOvER8Uml4WMYbXv8BaahVq9eF1v5Hu7M9/3oPlOFPmTJGH+TmvcRPt8fddj86urb+Ri+vlqotFspA/4STDsQ==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-98c3af11.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-Lo0j1owPfYM0txt85KwGzF1PQJLvLFGbRJoASd5ZKMQAV9ZSDg5bVm5UWBAz7glGzw1pkiUD2bCMs2wqyf+CEA==" type="application/javascript" data-module-id="./chunk-notification-list-focus.js" data-src="https://github.githubassets.com/assets/chunk-notification-list-focus-2e8d23d6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-dmP0pnRItCP7ydEXVipp98lz/HaQtHyG00kfd8lMS5AoLbDwGfqXPjj7Q0qLGpPc7lBkySNNHIeEPF7NblctEA==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-7663f4a6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-F0E2A5YYSz+7eA/RyQ/vYtJzeK2sjNyyneVBqru/CPoRXGBiAcJ2tpN2MWLxkNCqirt88h/BMCAF/7YTZ2qZJA==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-17413603.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-Zii9oRdZ6q2QDNjL5A+me7jwJjMLvs1NiQNHmajUZnn4t9shcBDb4F8l/PQZW26eYfe5065oM7lIOSmbMinA7Q==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-6628bda1.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-9WNXtB07IyWypiPmkuucspwog4mme9q5GKGMSgd7FI0DPimmg/pEw+aaAofFV1vuWMt9I8H5QpsVtlbHGg1YBA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-f56357b4.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-fIq9Mn7jY/bHQXnsmh+VejpDnaO+d/FDxsp+4CuZtdNLrLuO+dQCjh+m6Yd8GCYD2Cy6DWbCEyM+mH2dkB2H9A==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-7c8abd32.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-vgHJEmEJxNmHucGbVY8bEUoOYo5/ZwpQ69rU8Dld89daWJ54uad9lNptxq32F8pnbHhdngw9lohNEbMbjmj5AQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-be01c912.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-aSxfTHAZj9wv7n08DxgAKkNg7jhiTo4yKKbDqLGxcDxUk/al571Y2ZSsOmLJ0Vh8cuAL8tW+JgX1t0JeKfyfaA==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-692c5f4c.js"></script>
+  
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-RNox4a6ApSlI2qY0iLpxZGWT4zM4QA51Jaa6QBy3aCiYGD6S3oTTfPXhHInKLzI8X77tnnJuqww2VsefuZRizw==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-44da31e1.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-jy+NLOatJQZpW7XGRwNGqglHWlfwfOZi1CXUKndQz3c9Q9On9zDGvNmWBr5fAcCQDult8uzHY+1mnmys5uHK2Q==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-8f2f8d2c.js"></script>
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>agendamento-hospitalar/A151346189_28_143_208.csv at main · alura-cursos/agendamento-hospitalar · GitHub</title>
+    <meta name="description" content="Contribute to alura-cursos/agendamento-hospitalar development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+  <meta name="apple-itunes-app" content="app-id=1477376905" />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/08220ad00a576069175a584c776864c957b14f00b87258539d9f6ec9ea75b590/alura-cursos/agendamento-hospitalar" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alura-cursos/agendamento-hospitalar" /><meta name="twitter:description" content="Contribute to alura-cursos/agendamento-hospitalar development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/08220ad00a576069175a584c776864c957b14f00b87258539d9f6ec9ea75b590/alura-cursos/agendamento-hospitalar" /><meta property="og:image:alt" content="Contribute to alura-cursos/agendamento-hospitalar development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alura-cursos/agendamento-hospitalar" /><meta property="og:url" content="https://github.com/alura-cursos/agendamento-hospitalar" /><meta property="og:description" content="Contribute to alura-cursos/agendamento-hospitalar development by creating an account on GitHub." />
+
+
+
+    
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+
+  <meta name="request-id" content="B2CC:943C:3671B4E:39282C7:60A4175C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="c12e1086c4e40712f65f972213649cc66ece651d1342a8b0fef5647eb7645107" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCMkNDOjk0M0M6MzY3MUI0RTozOTI4MkM3OjYwQTQxNzVDIiwidmlzaXRvcl9pZCI6IjYzNjAzMTE0NDQxMzcwNTYwOTIiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="7a90088e8f71f669621f66d552333f87595ba53337f5ef61e60a04d099dee8d3" data-pjax-transient="true"/>
+
+    <meta name="hovercard-subject-tag" content="repository:306089198" data-pjax-transient>
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" />
+
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+  
+
+
+
+  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20106410318&quot;, &quot;key&quot;: &quot;en&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20122000362&quot;, &quot;key&quot;: &quot;ko&quot;}], &quot;id&quot;: &quot;20121990335&quot;, &quot;key&quot;: &quot;ko_homepage_translation&quot;, &quot;layerId&quot;: &quot;20100420349&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20106410318&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20122000362&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20227754799&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20233267869&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20194668672&quot;, &quot;key&quot;: &quot;recommended_plan_in_signup&quot;, &quot;layerId&quot;: &quot;20231804245&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20233267869&quot;, &quot;endOfRange&quot;: 2500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20227754799&quot;, &quot;endOfRange&quot;: 7500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;d0c8cbf56b61c99517936207d280de0c&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20233300304&quot;, &quot;key&quot;: &quot;launch_code_variation&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20227370325&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;20206000276&quot;, &quot;key&quot;: &quot;launch_code_verification&quot;, &quot;layerId&quot;: &quot;20233240262&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20233300304&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20233300304&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20236992340&quot;, &quot;key&quot;: &quot;usd&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20184442182&quot;, &quot;key&quot;: &quot;localized_currency&quot;}], &quot;id&quot;: &quot;20233233507&quot;, &quot;key&quot;: &quot;local_currency_pricing&quot;, &quot;layerId&quot;: &quot;20212472765&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20184442182&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20236992340&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;667685045.1617740930&quot;: &quot;localized_currency&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [&quot;20121990335&quot;], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [&quot;20121990335&quot;], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [&quot;20121990335&quot;, &quot;20233233507&quot;], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [&quot;20206000276&quot;], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}], &quot;revision&quot;: &quot;686&quot;}" />
+  <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
+    <head> tag before the DOM renders -->
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-yDmmCGyENqEePvF9X9A4omxWCNcbS6qK2h8HZPdnvXd02Vzhtqd0zRd/pgTgqQ/xOA02F3H225VpJvDXrnfNbA==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-c839a608.js"></script>
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+
+      <meta name="expected-hostname" content="github.com">
+
+
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR,ACTIONS_CONCURRENCY_UI">
+
+  <meta http-equiv="x-pjax-version" content="da7e0305f5047f9959b8bf5a12d7d69358c02c2f95b84046dfa0185706c113b8">
+  
+
+    
+  <meta name="go-import" content="github.com/alura-cursos/agendamento-hospitalar git https://github.com/alura-cursos/agendamento-hospitalar.git">
+
+  <meta name="octolytics-dimension-user_id" content="4975968" /><meta name="octolytics-dimension-user_login" content="alura-cursos" /><meta name="octolytics-dimension-repository_id" content="306089198" /><meta name="octolytics-dimension-repository_nwo" content="alura-cursos/agendamento-hospitalar" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="306089198" /><meta name="octolytics-dimension-repository_network_root_nwo" content="alura-cursos/agendamento-hospitalar" />
+
+
+
+    <link rel="canonical" href="https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+<meta name="color-scheme" content="light dark" />
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+<meta name="enabled-homepage-translation-languages" content="ko">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive page-blob" style="word-wrap: break-word;">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content">Skip to content</a>
+      <span class="progress-pjax-loader width-full js-pjax-loader-bar Progress position-fixed">
+    <span style="background-color: #79b8ff;width: 0%;" class="Progress-item progress-pjax-loader-bar"></span>
+</span>      
+      
+
+
+            <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-xl d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github color-text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        </a>
+
+          <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+            
+
+          </div>
+
+        <div class="d-flex flex-items-center">
+              <nux-signup-candidates
+                data-attribute-name="href"
+                data-candidate-url="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
+                data-action="loaded:nux-signup-candidates#determineSignupAction"
+                
+              >
+                <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
+                  class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
+                  data-target="nux-signup-candidates.signupAction"
+                  data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5c811dc1e142fb33fb38ff8426e891a66e63d398012f8ce2c6393dfa43a1d657"
+                >
+                  Sign&nbsp;up
+                </a>
+              </nux-signup-candidates>
+
+          <button class="btn-link d-lg-none mt-1 js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+            <svg height="24" class="octicon octicon-three-bars color-text-white" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
+          </button>
+        </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom color-bg-secondary p-3">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x color-text-secondary" viewBox="0 0 24 24" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block Link--primary no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                        <li class="edge-item-fix"><a href="/mobile" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Mobile <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Actions <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/codespaces" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Codespaces <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/packages" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Packages <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/security" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Security <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Code review <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Project management <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">Integrations <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/sponsors" class="py-2 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Sponsors">GitHub Sponsors <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories<span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Team">Team</a>
+              </li>
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded px-0 pt-2 pb-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block Link--primary no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="color-text-tertiary text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Learn and contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Topics">Topics <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Collections">Collections <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Trending">Trending <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="color-text-tertiary text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="https://github.com/readme" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover">The ReadME Project <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Events">Events <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Community forum">Community forum <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://stars.github.com" class="py-2 pb-0 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to GitHub Stars Program">GitHub Stars program <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded px-0 pt-2 pb-4 mt-0 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block Link--primary no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal color-text-tertiary pr-3">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex min-width-0 mb-3 mb-lg-0">
+            
+  <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
+    role="combobox"
+    aria-owns="jump-to-results"
+    aria-label="Search or jump to"
+    aria-haspopup="listbox"
+    aria-expanded="false"
+  >
+    <div class="position-relative">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="306089198" data-scoped-search-url="/alura-cursos/agendamento-hospitalar/search" data-owner-scoped-search-url="/orgs/alura-cursos/search" data-unscoped-search-url="/search" action="/alura-cursos/agendamento-hospitalar/search" accept-charset="UTF-8" method="get">
+        <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+          <input type="text"
+            class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+            data-hotkey="s,/"
+            name="q"
+            value=""
+            placeholder="Search"
+            data-unscoped-placeholder="Search GitHub"
+            data-scoped-placeholder="Search"
+            autocapitalize="off"
+            aria-autocomplete="list"
+            aria-controls="jump-to-results"
+            aria-label="Search"
+            data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+            spellcheck="false"
+            autocomplete="off"
+          >
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="sq/LrWyHqeghbSrOI+OmVPkywQqb8wXhRTcqOyt/LKonIEQsD4szYDEGFWhL+okwbxHa+dZlQGk8kwH0ssorMw==" />
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="color-text-secondary">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
+        In this organization
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+        </label>
+</form>    </div>
+  </div>
+
+          </div>
+
+        <a href="/login?return_to=%2Falura-cursos%2Fagendamento-hospitalar%2Fblob%2Fmain%2Fdados%2FA151346189_28_143_208.csv"
+          class="HeaderMenu-link flex-shrink-0 no-underline mr-3"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1e8ebd6558392a2bbeacdd46c62c01a61c8f1b0384301acda546b50e4068ec38"
+          data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+          Sign in
+        </a>
+            <nux-signup-candidates
+              data-attribute-name="href"
+              data-candidate-url="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=alura-cursos%2Fagendamento-hospitalar"
+              data-action="loaded:nux-signup-candidates#determineSignupAction"
+              
+            >
+              <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=alura-cursos%2Fagendamento-hospitalar"
+                class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
+                data-target="nux-signup-candidates.signupAction"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1e8ebd6558392a2bbeacdd46c62c01a61c8f1b0384301acda546b50e4068ec38"
+                data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4a6d5c78335a97dd8f776e67b06ced069b92758f795733b62285832b222a01f0"
+              >
+                Sign up
+              </a>
+            </nux-signup-candidates>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+    <div data-pjax-replace id="js-flash-container">
+
+
+  <template class="js-flash-template">
+    <div class="flash flash-full  {{ className }}">
+  <div class=" px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    
+      <div>{{ message }}</div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+  <div
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+  >
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" data-pjax-container >
+      
+
+      
+    
+
+
+
+
+
+
+  
+
+
+  <div class="color-bg-secondary pt-3 hide-full-screen mb-5">
+
+      <div class="d-flex mb-3 px-3 px-md-4 px-lg-5">
+
+        <div class="flex-auto min-width-0 width-fit mr-3">
+            <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
+    <svg class="octicon octicon-repo color-text-secondary mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <span class="author flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/alura-cursos/hovercard" href="/alura-cursos">alura-cursos</a>
+  </span>
+  <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#js-repo-pjax-container" href="/alura-cursos/agendamento-hospitalar">agendamento-hospitalar</a>
+  </strong>
+  
+</h1>
+
+
+        </div>
+
+          <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
+
+  <li>
+      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="812777c2a135156c557bfb906e696f9a16481b3f1c370ff9f7d3219358029bdc" href="/login?return_to=%2Falura-cursos%2Fagendamento-hospitalar">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-bell">
+    <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
+</svg>
+    Notifications
+</a>
+  </li>
+
+  <li>
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:306089198,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b465943c0d169fc8494febe27287d88c18785a6467581b7a0e0bc7b6bacbdef5" href="/login?return_to=%2Falura-cursos%2Fagendamento-hospitalar">
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-star v-align-text-bottom mr-1">
+    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
+</svg>
+      <span>
+        Star
+</span></a>
+    <a class="social-count js-social-count" href="/alura-cursos/agendamento-hospitalar/stargazers"
+      aria-label="14 users starred this repository">
+      14
+    </a>
+
+  </li>
+
+  <li>
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:306089198,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8c00f8221f56a3b751d7e910bae11316c11794cbb0c2469d9824d9dd05f0d4d" href="/login?return_to=%2Falura-cursos%2Fagendamento-hospitalar">
+          <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-repo-forked">
+    <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
+</svg>
+          Fork
+</a>
+      <a href="/alura-cursos/agendamento-hospitalar/network/members" class="social-count"
+         aria-label="50 users forked this repository">
+        50
+      </a>
+  </li>
+</ul>
+
+      </div>
+        
+
+  <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 color-bg-secondary">
+
+    <ul class="UnderlineNav-body list-style-none">
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /alura-cursos/agendamento-hospitalar" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item selected">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+          <span data-content="Code">Code</span>
+            <span title="Not available" class="Counter"></span>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /alura-cursos/agendamento-hospitalar/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path>
+</svg>
+          <span data-content="Issues">Issues</span>
+            <span title="0" hidden="hidden" class="Counter">0</span>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /alura-cursos/agendamento-hospitalar/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg>
+          <span data-content="Pull requests">Pull requests</span>
+            <span title="0" hidden="hidden" class="Counter">0</span>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /alura-cursos/agendamento-hospitalar/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
+</svg>
+          <span data-content="Actions">Actions</span>
+            <span title="Not available" class="Counter"></span>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /alura-cursos/agendamento-hospitalar/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+          <span data-content="Projects">Projects</span>
+            <span title="0" hidden="hidden" class="Counter">0</span>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /alura-cursos/agendamento-hospitalar/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
+</svg>
+          <span data-content="Wiki">Wiki</span>
+            <span title="Not available" class="Counter"></span>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /alura-cursos/agendamento-hospitalar/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
+</svg>
+          <span data-content="Security">Security</span>
+            <include-fragment src="/alura-cursos/agendamento-hospitalar/security/overall-count" accept="text/fragment+html"></include-fragment>
+
+    
+</a></li>
+        <li class="d-flex">
+  <a href="/alura-cursos/agendamento-hospitalar/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /alura-cursos/agendamento-hospitalar/pulse" data-ga-click="Repository, Navigation click, Insights tab" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+    
+                  <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
+</svg>
+          <span data-content="Insights">Insights</span>
+            <span title="Not available" class="Counter"></span>
+
+    
+</a></li>
+</ul>
+      <div style="visibility:hidden;" class="UnderlineNav-actions  js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <details class="details-overlay details-reset position-relative">
+  <summary role="button">          <div class="UnderlineNav-item mr-0 border-0">
+            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+            <span class="sr-only">More</span>
+          </div>
+</summary>
+  <div>          <details-menu role="menu" class="dropdown-menu dropdown-menu-sw">
+  
+            <ul>
+                <li data-menu-item="i0code-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar" href="/alura-cursos/agendamento-hospitalar">
+                    Code
+</a>                </li>
+                <li data-menu-item="i1issues-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/issues" href="/alura-cursos/agendamento-hospitalar/issues">
+                    Issues
+</a>                </li>
+                <li data-menu-item="i2pull-requests-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/pulls" href="/alura-cursos/agendamento-hospitalar/pulls">
+                    Pull requests
+</a>                </li>
+                <li data-menu-item="i3actions-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/actions" href="/alura-cursos/agendamento-hospitalar/actions">
+                    Actions
+</a>                </li>
+                <li data-menu-item="i4projects-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/projects" href="/alura-cursos/agendamento-hospitalar/projects">
+                    Projects
+</a>                </li>
+                <li data-menu-item="i5wiki-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/wiki" href="/alura-cursos/agendamento-hospitalar/wiki">
+                    Wiki
+</a>                </li>
+                <li data-menu-item="i6security-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/security" href="/alura-cursos/agendamento-hospitalar/security">
+                    Security
+</a>                </li>
+                <li data-menu-item="i7insights-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /alura-cursos/agendamento-hospitalar/pulse" href="/alura-cursos/agendamento-hospitalar/pulse">
+                    Insights
+</a>                </li>
+            </ul>
+
+</details-menu></div>
+</details></div>
+</nav>
+
+  </div>
+
+
+<div class="container-xl clearfix new-discussion-timeline px-3 px-md-4 px-lg-5">
+  <div id="repo-content-pjax-container" class="repository-content " >
+
+    
+      
+    
+<div>
+  
+
+
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/alura-cursos/agendamento-hospitalar/blob/674f6ee61df9e6d359ce77dab5221459aca51391/dados/A151346189_28_143_208.csv">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v22:708db32d7328394bc14149571361d3417da52b9dbf5bc29e792f2fdf87ef756f -->
+
+    <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
+      
+<div class="position-relative">
+  <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
+    <summary class="btn css-truncate"
+            data-hotkey="w"
+            title="Switch branches or tags">
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-git-branch text-gray">
+    <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
+</svg>
+      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="dropdown-caret"></span>
+    </summary>
+
+      
+<div class="SelectMenu">
+  <div class="SelectMenu-modal">
+    <header class="SelectMenu-header">
+      <span class="SelectMenu-title">Switch branches/tags</span>
+      <button class="SelectMenu-closeButton" type="button" data-toggle-for="branch-select-menu"><svg aria-label="Close menu" aria-hidden="false" role="img" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg></button>
+    </header>
+
+    <input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput">
+      <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;">
+        <div class="SelectMenu-filter">
+          <input data-target="input-demux.source"
+                 id="context-commitish-filter-field"
+                 class="SelectMenu-input form-control"
+                 aria-owns="ref-list-branches"
+                 data-controls-ref-menu-id="ref-list-branches"
+                 autofocus
+                 autocomplete="off"
+                 aria-label="Filter branches/tags"
+                 placeholder="Filter branches/tags"
+                 type="text"
+          >
+        </div>
+
+        <div class="SelectMenu-tabs" role="tablist" data-target="input-demux.control" >
+          <button class="SelectMenu-tab" type="button" role="tab" aria-selected="true">Branches</button>
+          <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
+        </div>
+
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" class="d-flex flex-column flex-auto overflow-auto" tabindex="">
+          <ref-selector
+            type="branch"
+            data-targets="input-demux.sinks"
+            data-action="
+              input-entered:ref-selector#inputEntered
+              tab-selected:ref-selector#tabSelected
+              focus-list:ref-selector#focusFirstListMember
+            "
+            query-endpoint="/alura-cursos/agendamento-hospitalar/refs"
+            
+            cache-key="v0:1603298959.0"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="YWx1cmEtY3Vyc29zL2FnZW5kYW1lbnRvLWhvc3BpdGFsYXI="
+          >
+
+            <template data-target="ref-selector.fetchFailedTemplate">
+              <div class="SelectMenu-message" data-index="{{ index }}">Could not load branches</div>
+            </template>
+
+              <template data-target="ref-selector.noMatchTemplate">
+    <div class="SelectMenu-message">Nothing to show</div>
+</template>
+
+
+            <!-- TODO: this max-height is necessary or else the branch list won't scroll.  why? -->
+            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " style="max-height: 330px">
+              <div class="SelectMenu-loading pt-3 pb-0" aria-label="Menu is loading">
+                <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" width="32" height="32" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+              </div>
+            </div>
+
+              <template data-target="ref-selector.itemTemplate">
+  <a href="https://github.com/alura-cursos/agendamento-hospitalar/blob/{{ urlEncodedRefName }}/dados/A151346189_28_143_208.csv" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+    <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
+    <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
+  </a>
+</template>
+
+
+              <footer class="SelectMenu-footer"><a href="/alura-cursos/agendamento-hospitalar/branches">View all branches</a></footer>
+          </ref-selector>
+
+        </div>
+
+        <div role="tabpanel" id="tags-menu" data-filter-placeholder="Find a tag" class="d-flex flex-column flex-auto overflow-auto" tabindex="" hidden>
+          <ref-selector
+            type="tag"
+            data-action="
+              input-entered:ref-selector#inputEntered
+              tab-selected:ref-selector#tabSelected
+              focus-list:ref-selector#focusFirstListMember
+            "
+            data-targets="input-demux.sinks"
+            query-endpoint="/alura-cursos/agendamento-hospitalar/refs"
+            cache-key="v0:1603298959.0"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="YWx1cmEtY3Vyc29zL2FnZW5kYW1lbnRvLWhvc3BpdGFsYXI="
+          >
+
+            <template data-target="ref-selector.fetchFailedTemplate">
+              <div class="SelectMenu-message" data-index="{{ index }}">Could not load tags</div>
+            </template>
+
+            <template data-target="ref-selector.noMatchTemplate">
+              <div class="SelectMenu-message" data-index="{{ index }}">Nothing to show</div>
+            </template>
+
+              <template data-target="ref-selector.itemTemplate">
+  <a href="https://github.com/alura-cursos/agendamento-hospitalar/blob/{{ urlEncodedRefName }}/dados/A151346189_28_143_208.csv" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+    <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
+    <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
+  </a>
+</template>
+
+
+            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list" style="max-height: 330px">
+              <div class="SelectMenu-loading pt-3 pb-0" aria-label="Menu is loading">
+                <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" width="32" height="32" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+              </div>
+            </div>
+              <footer class="SelectMenu-footer"><a href="/alura-cursos/agendamento-hospitalar/tags">View all tags</a></footer>
+          </ref-selector>
+        </div>
+      </tab-container>
+    </input-demux>
+  </div>
+</div>
+
+  </details>
+
+</div>
+
+      <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/alura-cursos/agendamento-hospitalar"><span>agendamento-hospitalar</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/alura-cursos/agendamento-hospitalar/tree/main/dados"><span>dados</span></a></span><span class="separator">/</span><strong class="final-path">A151346189_28_143_208.csv</strong>
+      </h2>
+      <a href="/alura-cursos/agendamento-hospitalar/find/main"
+            class="js-pjax-capture-input btn mr-2 d-none d-md-block"
+            data-pjax
+            data-hotkey="t">
+        Go to file
+      </a>
+
+      <details id="blob-more-options-details" class="details-overlay details-reset position-relative">
+  <summary role="button" class="btn">
+  
+            <svg aria-label="More options" role="img" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+
+  
+
+</summary>
+  <div>          <ul class="dropdown-menu dropdown-menu-sw">
+            <li class="d-block d-md-none">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:306089198,&quot;originating_url&quot;:&quot;https://github.com/alura-cursos/agendamento-hospitalar/blob/main/dados/A151346189_28_143_208.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4ede2243aa5d0dbe2b8fd7991dedded3e7d7ffc2b612e18eaa6efb89120df206" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/alura-cursos/agendamento-hospitalar/find/main">
+                <span class="flex-auto">Go to file</span>
+                <span class="text-small color-text-secondary" aria-hidden="true">T</span>
+</a>            </li>
+            <li data-toggle-for="blob-more-options-details">
+              <button type="button" data-toggle-for="jumpto-line-details-dialog" class="btn-link dropdown-item">
+                <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Go to line</span>
+                  <span class="text-small color-text-secondary" aria-hidden="true">L</span>
+                </span>
+              </button>
+            </li>
+            <li class="dropdown-divider" role="none"></li>
+            <li>
+              <clipboard-copy value="dados/A151346189_28_143_208.csv" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+                Copy path
+              </clipboard-copy>
+            </li>
+            <li>
+              <clipboard-copy value="https://github.com/alura-cursos/agendamento-hospitalar/blob/674f6ee61df9e6d359ce77dab5221459aca51391/dados/A151346189_28_143_208.csv" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+                <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Copy permalink</span>
+                </span>
+              </clipboard-copy>
+            </li>
+          </ul>
+</div>
+</details>    </div>
+
+
+
+    <div class="Box d-flex flex-column flex-shrink-0 mb-3">
+      
+  <div class="Box-header Box-header--blue Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/IgorNascAlves/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/IgorNascAlves"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/26041581?s=48&amp;v=4" width="24" height="24" alt="@IgorNascAlves" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/IgorNascAlves/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/IgorNascAlves">IgorNascAlves</a>
+
+                <span class="markdown-title">
+                  <a data-pjax="true" title="correção arquivo da aula 1" class="Link--secondary" href="/alura-cursos/agendamento-hospitalar/commit/0298f58275fa034b01aef41ccbc662bffb4e6202">correção arquivo da aula 1</a>
+                </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/alura-cursos/agendamento-hospitalar/commit/0298f58275fa034b01aef41ccbc662bffb4e6202/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/alura-cursos/agendamento-hospitalar/commit/0298f58275fa034b01aef41ccbc662bffb4e6202" data-pjax>0298f58</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-11-04T12:21:53Z" class="no-wrap">Nov 4, 2020</relative-time></span>
+          </span>
+
+          <a data-pjax href="/alura-cursos/agendamento-hospitalar/commits/main/dados/A151346189_28_143_208.csv" class="ml-3 no-wrap Link--primary no-underline">
+            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-history text-gray">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-people text-gray">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/alura-cursos/agendamento-hospitalar/contributors-list/main/dados/A151346189_28_143_208.csv" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" width="32" height="32" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
+
+
+
+
+
+
+
+
+  
+    <div data-target="readme-toc.content" class="Box mt-3 position-relative
+    ">
+      
+  <div
+    class="Box-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
+  >
+
+
+  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
+
+      43 lines (39 sloc)
+      <span class="file-info-divider"></span>
+    52.7 KB
+  </div>
+
+  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
+
+    <div class="BtnGroup">
+      <a href="/alura-cursos/agendamento-hospitalar/raw/main/dados/A151346189_28_143_208.csv" id="raw-url" role="button" class="btn-sm btn BtnGroup-item">
+  
+  Raw
+  
+
+</a>
+        <a href="/alura-cursos/agendamento-hospitalar/blame/main/dados/A151346189_28_143_208.csv" data-hotkey="b" role="button" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+  
+  Blame
+  
+
+</a>
+    </div>
+
+    <div>
+          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
+             data-platforms="windows,mac"
+             href="https://desktop.github.com"
+             aria-label="Open this file in GitHub Desktop"
+             data-ga-click="Repository, open with desktop">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-device-desktop">
+    <path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path>
+</svg>
+          </a>
+
+          <a href="/login?return_to=%2Falura-cursos%2Fagendamento-hospitalar%2Fblob%2Fmain%2Fdados%2FA151346189_28_143_208.csv" class="btn-octicon disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-pencil">
+    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
+</svg>
+          </a>
+          <a href="/login?return_to=%2Falura-cursos%2Fagendamento-hospitalar%2Fblob%2Fmain%2Fdados%2FA151346189_28_143_208.csv" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-trash">
+    <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
+</svg>
+          </a>
+    </div>
+  </div>
+
+    <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
+      <details class="dropdown details-reset details-overlay d-inline-block">
+        <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
+          <svg height="16" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
+        </summary>
+
+        <ul class="dropdown-menu dropdown-menu-sw">
+            <li>
+                <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
+                   data-platforms="windows,mac"
+                   href="https://desktop.github.com"
+                   data-ga-click="Repository, open with desktop">
+                  Open with Desktop
+                </a>
+            </li>
+          <li>
+            <a class="dropdown-item" href="/alura-cursos/agendamento-hospitalar/raw/main/dados/A151346189_28_143_208.csv">
+              View raw
+            </a>
+          </li>
+            <li>
+              <a class="dropdown-item" href="/alura-cursos/agendamento-hospitalar/blame/main/dados/A151346189_28_143_208.csv">
+                View blame
+              </a>
+            </li>
+
+        </ul>
+      </details>
+    </div>
+</div>
+
+
+          <div class="render-notice">
+      We can make this file <a href='https://docs.github.com/articles/rendering-csv-and-tsv-data'>beautiful and searchable</a> if this error is corrected: Any value after quoted field isn't allowed in line 4.
+    </div>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-csv  gist-border-0">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"> Procedimentos hospitalares do SUS - por local de internação - Brasil</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">Valor total por Unidade da Federação e Ano/mês processamento</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">Período:Jan/2008-Ago/2020</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">&quot;Unidade da Federação&quot;;&quot;2008/Jan&quot;;&quot;2008/Fev&quot;;&quot;2008/Mar&quot;;&quot;2008/Abr&quot;;&quot;2008/Mai&quot;;&quot;2008/Jun&quot;;&quot;2008/Jul&quot;;&quot;2008/Ago&quot;;&quot;2008/Set&quot;;&quot;2008/Out&quot;;&quot;2008/Nov&quot;;&quot;2008/Dez&quot;;&quot;2009/Jan&quot;;&quot;2009/Fev&quot;;&quot;2009/Mar&quot;;&quot;2009/Abr&quot;;&quot;2009/Mai&quot;;&quot;2009/Jun&quot;;&quot;2009/Jul&quot;;&quot;2009/Ago&quot;;&quot;2009/Set&quot;;&quot;2009/Out&quot;;&quot;2009/Nov&quot;;&quot;2009/Dez&quot;;&quot;2010/Jan&quot;;&quot;2010/Fev&quot;;&quot;2010/Mar&quot;;&quot;2010/Abr&quot;;&quot;2010/Mai&quot;;&quot;2010/Jun&quot;;&quot;2010/Jul&quot;;&quot;2010/Ago&quot;;&quot;2010/Set&quot;;&quot;2010/Out&quot;;&quot;2010/Nov&quot;;&quot;2010/Dez&quot;;&quot;2011/Jan&quot;;&quot;2011/Fev&quot;;&quot;2011/Mar&quot;;&quot;2011/Abr&quot;;&quot;2011/Mai&quot;;&quot;2011/Jun&quot;;&quot;2011/Jul&quot;;&quot;2011/Ago&quot;;&quot;2011/Set&quot;;&quot;2011/Out&quot;;&quot;2011/Nov&quot;;&quot;2011/Dez&quot;;&quot;2012/Jan&quot;;&quot;2012/Fev&quot;;&quot;2012/Mar&quot;;&quot;2012/Abr&quot;;&quot;2012/Mai&quot;;&quot;2012/Jun&quot;;&quot;2012/Jul&quot;;&quot;2012/Ago&quot;;&quot;2012/Set&quot;;&quot;2012/Out&quot;;&quot;2012/Nov&quot;;&quot;2012/Dez&quot;;&quot;2013/Jan&quot;;&quot;2013/Fev&quot;;&quot;2013/Mar&quot;;&quot;2013/Abr&quot;;&quot;2013/Mai&quot;;&quot;2013/Jun&quot;;&quot;2013/Jul&quot;;&quot;2013/Ago&quot;;&quot;2013/Set&quot;;&quot;2013/Out&quot;;&quot;2013/Nov&quot;;&quot;2013/Dez&quot;;&quot;2014/Jan&quot;;&quot;2014/Fev&quot;;&quot;2014/Mar&quot;;&quot;2014/Abr&quot;;&quot;2014/Mai&quot;;&quot;2014/Jun&quot;;&quot;2014/Jul&quot;;&quot;2014/Ago&quot;;&quot;2014/Set&quot;;&quot;2014/Out&quot;;&quot;2014/Nov&quot;;&quot;2014/Dez&quot;;&quot;2015/Jan&quot;;&quot;2015/Fev&quot;;&quot;2015/Mar&quot;;&quot;2015/Abr&quot;;&quot;2015/Mai&quot;;&quot;2015/Jun&quot;;&quot;2015/Jul&quot;;&quot;2015/Ago&quot;;&quot;2015/Set&quot;;&quot;2015/Out&quot;;&quot;2015/Nov&quot;;&quot;2015/Dez&quot;;&quot;2016/Jan&quot;;&quot;2016/Fev&quot;;&quot;2016/Mar&quot;;&quot;2016/Abr&quot;;&quot;2016/Mai&quot;;&quot;2016/Jun&quot;;&quot;2016/Jul&quot;;&quot;2016/Ago&quot;;&quot;2016/Set&quot;;&quot;2016/Out&quot;;&quot;2016/Nov&quot;;&quot;2016/Dez&quot;;&quot;2017/Jan&quot;;&quot;2017/Fev&quot;;&quot;2017/Mar&quot;;&quot;2017/Abr&quot;;&quot;2017/Mai&quot;;&quot;2017/Jun&quot;;&quot;2017/Jul&quot;;&quot;2017/Ago&quot;;&quot;2017/Set&quot;;&quot;2017/Out&quot;;&quot;2017/Nov&quot;;&quot;2017/Dez&quot;;&quot;2018/Jan&quot;;&quot;2018/Fev&quot;;&quot;2018/Mar&quot;;&quot;2018/Abr&quot;;&quot;2018/Mai&quot;;&quot;2018/Jun&quot;;&quot;2018/Jul&quot;;&quot;2018/Ago&quot;;&quot;2018/Set&quot;;&quot;2018/Out&quot;;&quot;2018/Nov&quot;;&quot;2018/Dez&quot;;&quot;2019/Jan&quot;;&quot;2019/Fev&quot;;&quot;2019/Mar&quot;;&quot;2019/Abr&quot;;&quot;2019/Mai&quot;;&quot;2019/Jun&quot;;&quot;2019/Jul&quot;;&quot;2019/Ago&quot;;&quot;2019/Set&quot;;&quot;2019/Out&quot;;&quot;2019/Nov&quot;;&quot;2019/Dez&quot;;&quot;2020/Jan&quot;;&quot;2020/Fev&quot;;&quot;2020/Mar&quot;;&quot;2020/Abr&quot;;&quot;2020/Mai&quot;;&quot;2020/Jun&quot;;&quot;2020/Jul&quot;;&quot;2020/Ago&quot;;&quot;Total&quot;</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">&quot;11 Rondônia&quot;;1388528,39;2931283,42;1541682,52;1525314,96;1645953,84;1406150,68;3065279,01;3231494,61;3117178,63;3068430,44;2825838,52;2931173,58;2885269,07;2860103,74;3684944,68;3607289,68;3774356,60;3706711,84;3763187,55;3533625,83;3605007,43;3907032,72;3939820,71;3901084,11;3684407,02;3623015,58;3890461,90;4193533,87;4534400,67;4451208,03;4874592,78;4460802,38;5067886,24;4511092,85;4394680,50;4098741,80;4411499,48;3868617,95;4298702,78;5062171,26;4769347,86;4578105,60;4477870,09;5173453,51;5554791,51;4110177,87;4428561,32;3534337,12;4015781,56;4426788,59;4873364,26;4516103,32;4619267,68;5226741,11;4756327,23;4112530,56;4023514,11;3866138,34;3543519,05;3201183,18;4072043,77;4534984,70;5229512,34;5660083,57;5681210,93;5076918,42;5623854,81;5928359,34;6019754,08;6050368,46;6422821,25;6172605,14;5773335,50;6229461,54;6536336,12;6611751,56;7122614,34;7207965,81;6725041,04;7220209,27;6814650,05;5931824,36;6179626,72;6743020,43;7278090,89;6619352,84;7131263,61;6945021,28;7868953,20;7546597,11;8738484,55;6756554,76;7443631,94;6964209,53;6310062,08;6561221,77;7735224,22;7995955,06;7189165,44;7956812,12;7551313,49;7930610,83;8133705,36;8150486,59;8022627,09;7280387,24;7047166,57;6961884,87;7820057,09;6801952,61;7825186,40;8706448,06;7700730,62;7948291,63;8438077,45;7656644,83;8047742,98;8657206,23;8150893,68;7507845,13;7998345,94;8893683,69;8867793,32;8871408,50;8501601,67;8315107,81;8525499,78;9177611,46;7368996,38;8835095,43;8328186,64;8408512,77;9351705,82;8143007,97;8949741,77;9630553,15;9581970,31;7891114,05;9792370,67;9170787,53;8816846,71;10024554,15;9675423,70;8085025,66;9221412,18;7493310,88;8092260,11;7273843,63;7652120,28;8725530,68;11152107,08;10285455,78;929129659,72</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">&quot;12 Acre&quot;;902416,00;1497206,26;1794028,48;1730469,42;1819443,92;1828496,00;2511754,59;2089107,14;2275708,53;1923886,57;1756986,80;2235639,98;2497116,43;2253558,01;2122673,92;2834317,62;2722065,97;2432831,95;2630190,65;2307579,00;-;2826477,02;2170791,18;2541526,44;2491042,33;1954473,90;2389996,38;2654878,60;2844085,21;2336207,19;2125143,06;2430293,67;2377738,44;2184746,84;2468452,90;2516284,54;3051370,08;2629104,42;2485451,79;2685361,47;2723636,56;2703465,22;3136180,38;2779056,81;2843787,04;2678333,12;2995350,62;2798961,10;2477516,55;2020664,45;2891004,20;2917189,18;2856559,74;2972526,32;2642561,57;3092964,63;2305053,90;3023732,28;3077000,68;2652599,99;2629926,82;3042756,88;2938961,84;3078191,21;2690955,41;2484380,90;2695489,86;2858632,12;2747845,31;2787096,33;2833968,00;2817689,19;3401042,72;2727314,78;2876282,12;2997785,18;3048049,52;2842110,36;3186712,81;3061644,48;3008496,43;3162186,27;3185054,44;2542641,25;3375217,14;3024505,16;3102975,42;3080946,80;3065970,28;3179076,68;2849011,25;3238448,07;3279779,27;3010495,38;3054205,54;3001387,94;3049208,63;3351792,42;3118339,30;3378121,43;3168503,68;3916151,76;3837020,05;3659074,22;3540035,67;3184932,00;3019223,73;3264746,69;2821087,89;3361575,80;3080444,99;2792505,42;3268651,85;2397512,85;2348760,00;3139155,41;2765062,92;4540084,78;4120228,96;2610454,55;3576595,19;2444567,37;2602434,35;3064163,42;2276236,69;3239474,10;3126429,88;2998865,51;2619709,86;3018048,94;3342614,24;2123426,26;2664654,52;1906429,95;3096439,63;2411628,00;2840630,58;3260153,59;3250722,84;3204998,88;3052745,65;3124802,29;3021521,75;2874871,28;3331803,55;3417691,07;3076003,20;2286642,60;2896340,24;3045245,80;3915193,20;-;420668039,63</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">&quot;13 Amazonas&quot;;4735529,42;7118990,57;8196635,49;8259378,42;7831399,90;8477273,62;9368858,72;9352532,70;9363099,35;8618318,83;6555549,08;7777645,88;7403068,36;6683346,89;9927781,20;8844511,21;9079035,96;8832894,53;9373395,97;9578326,03;9730634,16;9179252,65;8314648,93;9050439,39;9419460,86;8680178,57;9168055,41;9897901,80;9651362,37;10854599,47;10417122,89;8718347,13;8221592,12;9613977,03;9927574,41;9470661,21;9736750,91;8745259,80;9380112,36;10179342,29;11061892,22;10211426,03;12123214,39;9559769,10;10082882,91;9971934,86;9280038,03;11310448,23;10352439,40;10902583,74;10336630,29;9891098,07;10955256,77;10614256,72;11280206,14;10115473,76;10606064,15;10488989,62;10042561,52;8864038,68;10739446,51;9684212,55;10130504,54;11391815,28;10568514,30;11145486,18;10698375,56;11873036,73;11047897,23;11291971,45;10409535,59;10075788,88;10854399,27;8530242,21;9541806,56;8926365,37;11573335,40;10115769,72;9843473,49;9940875,63;11022062,33;10881666,13;10596831,32;10073869,11;11653868,55;12074530,23;11599144,27;12592492,33;12785467,37;13414600,97;14294033,22;12546727,34;12996512,49;13035233,22;12949248,84;11336880,23;10920318,02;11918470,84;13023926,19;12155273,10;13519252,14;13076793,34;12605307,29;13670157,49;13659651,19;11115915,16;10975042,21;11172130,72;12819877,21;10999828,34;14050412,75;12450515,95;14585552,51;12789637,85;14376990,41;14240071,26;13594647,25;14584288,95;13158724,61;13169660,32;13572263,03;13083081,70;14322305,22;14643340,51;14632208,09;14500521,14;14840533,42;14427620,91;15818964,25;16358462,57;15391163,74;14154362,85;16791397,31;14369987,43;16339024,96;15622910,63;16483166,92;15422243,28;15961988,04;15787896,78;16515441,67;15731201,23;15744605,61;14346553,60;16018459,07;14913745,37;15068304,35;13509579,29;19658585,46;20897542,93;19346450,18;14726443,67;1771654871,23</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">&quot;14 Roraima&quot;;657889,53;777939,31;718688,03;839994,39;862347,96;832440,66;996693,09;894271,18;910424,17;1191770,32;1056218,71;1244339,25;1085679,25;969528,54;1393226,70;1273734,17;1552638,50;1490587,74;1596751,80;1848998,68;1701611,25;1164711,18;1434809,17;1603817,28;1437340,80;1332094,01;1900513,75;1933875,49;1773958,29;1804729,73;1846639,32;1643518,23;1843163,29;1807885,17;1674871,65;1250999,28;1257275,43;1171045,72;1389668,67;1344865,94;1067658,62;1263672,05;1332059,90;1578802,72;1680654,08;1442744,11;1650204,12;1929960,01;1454967,71;1851381,93;2033270,63;2013566,74;2135433,72;1881388,84;1700584,76;1900737,72;1675603,38;1459814,93;1606433,71;1566723,97;1560766,91;1572959,06;1872493,39;1849434,84;1906244,70;2046527,40;2230115,06;1987863,23;1692032,87;1749131,23;1623751,92;1449573,40;1799254,33;1673138,65;1707514,82;1509667,70;1746450,27;1568152,88;1763225,69;1808929,95;1633205,33;1626604,96;1784288,11;1137519,58;1782510,89;2242719,18;1827444,50;2256510,91;1859541,42;1550643,78;1968388,99;2613984,17;2342709,66;2186291,71;2046678,01;1879063,44;1768010,64;1761873,12;1975897,20;2631309,15;2405520,72;2487164,76;3104153,09;2717341,67;2667842,22;2756299,47;2478590,27;2379805,56;2331250,21;2328221,91;2524744,05;2637579,82;2510634,79;2755620,24;2878177,60;2921978,36;2794080,79;2512259,50;2508514,18;2635287,45;2914195,21;2881281,13;2740423,51;2695484,62;2613895,43;3020718,84;2860584,22;2740088,01;2689103,41;2985029,23;2771881,20;2938769,32;2527888,58;2587642,41;1923440,17;2422446,17;2495491,03;2851291,67;3137537,40;3788154,80;3217218,61;3113940,14;3157977,67;3097113,21;3059823,80;2912519,98;2937346,43;2868820,96;2752228,26;3401864,29;3015488,30;2826486,18;305010883,18</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">&quot;15 Pará&quot;;18864744,11;19553758,20;21937342,70;20842829,69;23249952,88;23240687,56;24002223,56;23341218,03;25172261,32;24011712,48;21526303,70;23896804,99;24613320,93;24015940,01;26624310,10;26478979,58;26366401,19;25440701,25;28079331,88;27588522,26;27967969,22;28430631,19;25432419,12;26405862,20;25841889,70;26527192,33;27433129,31;25753868,16;27515463,84;26934203,47;26668195,02;26606749,81;27226660,53;27185706,84;27019994,90;26036033,25;27913374,40;26771060,28;27060396,38;27868879,78;25307476,19;28343034,68;24565538,49;25528460,74;28301294,35;27370964,61;25880407,71;26238490,03;27326329,10;26349845,26;27351755,74;26908659,29;27046198,36;26377422,89;26363477,67;20608795,00;26719283,05;26927163,20;26243631,89;27313748,48;25716468,35;27230611,92;27800745,33;28157962,06;28931084,84;30073494,18;29200573,47;27861583,35;28490038,60;28389416,65;28630467,92;30205302,72;26976831,19;27636018,25;28440495,48;28229650,98;28722845,27;30356126,43;28147550,89;27946764,08;28959611,93;30101037,11;28718375,83;28616330,52;28542136,50;28618366,52;29168223,09;30174783,94;29979937,84;29322659,71;30471017,89;31563922,22;29964621,66;29189794,43;29285733,64;27695852,89;27606572,27;29569770,87;28560310,47;30014919,19;29516894,49;30774513,14;29981379,23;30099178,67;30831386,91;31994665,39;29052732,84;29146575,51;30754370,21;30351043,39;31280430,65;32051882,54;30507852,39;32202265,99;32771002,63;32204013,38;34983747,88;34138970,65;33280643,37;34426413,15;31591185,32;31378879,00;32909877,51;35053278,80;33973133,85;35560757,57;33465172,06;35497371,12;34896020,28;37385364,64;34294171,03;34168505,29;33849909,80;32871717,66;33130995,71;36044319,40;35906526,59;35242306,77;29460144,72;31179893,86;34175218,80;36112567,22;36853237,41;35925899,01;34345207,63;37384336,94;35512568,15;28217249,66;32617541,05;41625331,28;38438873,79;39911193,02;4437115730,71</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">&quot;16 Amapá&quot;;1120973,34;1268740,33;974651,24;1141137,32;866346,18;1440978,95;1426659,48;1475551,38;1651341,43;1866748,58;1426138,18;1696614,53;1665895,54;1719940,00;1750321,77;2052705,19;1915803,55;1787587,54;1763665,03;1746538,99;2034329,78;1839723,26;1882221,29;1712948,71;1849157,17;1605246,04;1525752,37;1572809,36;1653304,86;1685303,78;1773604,15;1662522,64;1811346,65;1654294,56;1958555,54;1984579,56;1928716,67;1725458,50;1703040,74;1849254,15;1877764,70;1824413,77;1958748,33;1648820,20;2008607,15;1735371,53;1765232,33;1984622,25;1731934,33;1736602,27;1877427,40;1810215,83;1934889,49;1940127,06;2065225,89;1997713,00;2029073,53;2003492,09;2086524,25;1984701,05;1873324,52;1699031,94;1772098,19;2052260,55;2105954,30;2312795,29;2167442,71;2087176,35;2017311,99;1966476,53;2067127,94;1980437,55;1930990,93;1873469,06;1805952,31;1992130,63;2274212,55;1635034,56;2240376,26;2128269,35;1931324,11;1963927,38;1791744,72;1786830,89;1609767,42;1441043,63;1702493,39;1837470,82;1901951,16;2048564,82;1905641,81;1833930,69;2104874,14;1983042,85;1871083,38;1813281,56;1714795,55;1569543,74;1668555,78;1753839,47;1897437,54;2003945,53;2094138,46;1949259,95;1880541,13;1751634,91;1779290,66;1853989,34;1875579,06;1799370,10;1665356,48;1702593,70;1897787,14;2050824,29;1881406,55;1940174,73;1923150,03;2036787,91;1876731,42;1716855,56;1836149,63;1954823,32;1882553,32;1781034,49;1821567,42;2120412,72;1910968,09;2453555,40;2652283,29;2637161,32;2139141,93;2654304,54;2549805,60;2294126,19;2511041,32;2746817,21;2648904,75;2117098,07;2388704,49;2905190,27;2145557,83;2455947,45;2310514,38;2296699,42;2333822,65;2310195,65;1842472,54;1705873,64;2065055,35;2009912,57;3249565,87;2942273,94;291637984,75</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">&quot;17 Tocantins&quot;;3441592,69;4985688,85;6205612,60;4984482,09;5511002,46;4927934,22;5445602,28;5413710,38;5596669,50;4658414,01;5252451,80;5523443,70;5791656,63;5814388,89;6273994,59;6762806,93;6575718,57;6423393,40;6349231,85;6490519,50;6542918,14;6420058,63;6149491,80;6075178,19;6411312,84;6403262,51;6698840,55;6905354,41;6864576,47;6876811,94;6732224,34;7110923,00;6644145,62;6861920,56;6553013,61;6450647,82;6695049,17;6735950,07;7285116,46;7077600,27;7276517,85;7204515,82;7111068,57;6398846,69;6671885,21;6668674,99;6818007,56;7326766,19;7349981,38;6906666,50;8295260,11;7404533,57;7394948,64;7879916,82;7270326,59;7568211,84;7011488,83;6801718,91;6216482,98;6435055,37;6437964,96;7918351,20;7745929,88;7603624,90;7985256,31;8309699,73;6975424,96;7450740,84;7079191,03;7954081,13;6804464,16;6860885,77;7450518,49;7543839,51;7386177,85;7106540,44;7226788,09;7008936,76;7123445,53;8010542,13;7947217,21;8058333,55;7498623,81;6075309,60;7017704,11;6607349,96;6598637,99;7197312,63;6163740,83;7275370,04;6987921,76;6243320,96;5831094,19;6271670,32;6464273,87;5569115,04;5452646,99;7002099,24;7526781,90;6714887,59;6775391,70;6237057,69;6757143,54;6766501,09;6343847,41;5564377,89;6647651,04;6245735,72;6041173,17;6185379,91;7066456,44;5722291,45;7017035,58;6392708,38;5837072,54;6608301,60;6155701,19;5104089,76;5441162,74;5200789,02;5341353,03;5361684,48;5913061,01;4617378,68;4662238,24;5664149,36;5328909,25;5473666,63;5152490,73;5272355,92;4873715,59;5321091,08;5791079,68;5881439,69;6593258,41;6684401,50;7143806,13;6136528,26;7118118,28;7607639,98;8498162,91;7181834,26;6467132,92;7210731,09;8096781,90;7022324,92;7209045,59;6390358,03;6697839,73;7384806,71;9131707,60;8240261,38;999998621,85</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">&quot;21 Maranhão&quot;;10723506,39;13559679,41;13985142,36;14809416,46;14505727,38;14908091,32;15784899,40;15195312,89;14951277,75;16072219,28;14016545,04;15792303,93;14782429,14;16842416,53;16681626,41;17735055,55;17466345,31;17459229,54;18021648,34;19332949,68;19722895,51;19277852,57;18634078,27;19117914,42;18906152,18;17540838,45;19741933,29;19445208,55;20174079,39;20368446,35;20361636,95;20566710,40;19061901,55;20690798,08;21028915,80;19417889,95;20078774,98;20448952,89;20679514,26;21210956,43;20711362,63;20133585,72;20093760,87;20561354,00;20823782,57;21443192,85;20624583,38;21018995,06;19910712,45;20903047,82;21470376,33;23206397,57;23485362,14;22450749,87;23435622,79;21805434,82;21798310,07;21141382,25;21023222,79;19537791,98;21450719,20;21364133,12;22461901,45;23228749,74;25240524,07;24358828,55;24958955,03;24967531,41;25163721,77;25079061,93;24644011,47;24811898,90;25074797,96;23578706,77;24379180,43;24561919,83;24500997,60;26362567,92;25424053,10;26273438,74;26724276,68;25224307,37;25527490,63;24173557,53;23007366,00;24593179,79;25983153,20;25551983,98;27394126,13;26762772,42;27211673,48;26732789,79;26929089,25;26298140,28;25549080,29;25527661,43;26264050,26;24711983,48;25658079,48;26215740,88;26625097,16;26868870,97;27245242,67;26354933,71;25975872,16;25534733,58;25483933,05;20546508,53;26153825,19;25915583,50;27895091,69;26808643,39;28064440,72;27699191,35;29321581,70;28974267,39;28210786,25;28352324,75;26858367,06;29435501,73;28524888,88;26351836,62;30050918,58;31077432,22;29485732,67;29359484,98;29441181,87;30255833,42;29645428,53;29310709,37;28462327,93;29606231,79;30641772,18;27369051,19;30399681,09;30406171,44;31437580,62;30094232,34;30724404,59;31712464,35;30923188,40;31998992,79;30813942,93;29445106,74;30003061,50;29680064,33;28779088,94;24792925,68;30512523,70;33099356,79;32936503,37;28587541,78;3632860959,84</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">&quot;22 Piauí&quot;;7985142,43;10079928,25;10298372,45;10775976,33;10398360,88;10528253,88;11040107,92;10549176,40;10899198,97;11715943,38;10369913,55;10684587,12;10448286,35;10617670,35;11401299,72;12428589,39;13096561,66;13372660,40;13310452,49;12168904,03;12247027,29;11744946,02;12196050,05;13459523,06;13377545,88;12026087,81;13110928,87;13027827,92;13209892,57;12463347,78;12218924,47;12104581,53;11794304,49;11740569,52;12372469,69;11421766,77;11954750,85;11219584,72;13070767,19;13143485,15;12889360,42;12033508,93;12727802,04;12132453,19;12337823,57;12121361,96;12139729,75;12477915,21;12619535,41;11395160,86;12737321,75;12142250,28;13129897,87;12594498,58;13128752,90;13213409,87;13149787,65;12613748,10;12916332,76;10359313,84;13902810,56;12273154,58;13518766,19;14171819,16;14837895,80;14391407,33;15475406,15;14563444,64;13313035,17;13699020,82;13475082,18;12203866,56;13925397,46;12972098,71;13751165,19;13912536,25;14205768,41;13579613,82;13046445,88;14592991,93;14776732,77;13960878,05;13463269,30;12615568,41;13358738,91;13785632,94;14584722,64;14322942,19;15013200,79;14454832,59;14398152,47;15150229,33;14256213,20;15714147,30;15084901,43;14733472,07;15571565,11;14363504,72;15880991,44;15892745,74;15943858,05;16258706,62;16465969,20;16228607,43;15549846,19;15736373,68;15391534,31;15393789,12;15107868,39;14790246,86;15341220,32;15269541,96;16099564,15;16030487,08;15389371,73;16008485,48;15958946,19;15596652,45;14963370,52;16048864,85;15727504,93;15541518,92;16408257,61;16455257,04;16646954,86;16330507,19;16393717,19;17055960,69;16152452,68;16305480,04;15869156,06;17047311,75;15882517,83;15433452,88;16189802,79;17051416,58;17792232,00;17263004,56;17460423,29;18086949,20;17769414,47;18500751,19;17748312,51;17641837,23;16229473,38;16851334,11;14568254,23;12224393,97;12658280,69;14547134,38;17871598,61;23210624,20;2130616492,35</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">&quot;23 Ceará&quot;;15539821,90;25735101,55;28724625,75;30676457,06;30604453,47;31272395,18;30925391,36;27851438,72;30362719,90;27657898,74;23572202,62;33251315,89;28809087,67;31631678,94;36939120,91;34179912,08;36272200,59;34514430,28;33985745,09;34682824,87;34471579,06;34058130,68;33861419,95;32151569,45;31949416,20;33250426,39;35653267,77;35280277,67;35760071,81;35224241,72;33677543,24;36365864,28;34901701,12;32267756,89;34415020,82;33249126,78;34083768,13;34657124,63;34921321,39;35289057,05;31312651,43;34958166,98;35600653,57;34923503,02;34917942,75;37067583,72;36176592,24;36163224,49;33904905,31;34429527,00;36060511,72;36387903,45;36728767,46;37193350,35;35902921,65;36804484,15;36291974,12;34919726,64;34136530,45;33435320,11;34359519,16;35133251,78;37546233,35;41295702,27;40939009,64;37839667,55;42270617,66;40582966,62;43854435,74;43085302,61;41208497,92;39790795,23;43974395,97;40184793,47;40342501,47;40563143,01;44720573,47;41205987,70;46219584,77;43074266,62;44841468,62;41344333,25;41348809,15;42357514,72;41338903,46;39202385,23;43321011,48;43669409,97;44139477,01;45122415,42;45763263,53;45838906,81;45536932,02;44074999,72;46985437,04;42069845,68;42137536,29;42612272,89;41705286,12;44750003,28;45625574,80;47254860,59;45694578,24;48499950,85;47371013,95;46087169,60;44416697,03;43959411,65;41682796,39;42896779,59;46482524,94;43165850,62;46984022,33;46412837,02;46353321,61;47766332,04;47342510,36;48964370,84;47756590,17;45509439,96;48012434,52;45500460,48;48132921,00;48061986,29;48954862,10;47404127,98;49250389,91;50528833,27;46519835,66;48461986,08;47851900,31;45277060,12;49469464,64;47565552,04;48209418,30;49676998,37;52622124,54;50899685,24;52995900,80;52448675,67;51139884,41;51554343,17;50517682,78;50834117,85;50622973,33;50719494,87;46991314,91;44964787,45;46197393,28;54409441,05;55180751,48;59808605,59;6197357245,98</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">&quot;24 Rio Grande do Norte&quot;;5947814,08;9509755,83;10352238,59;10855108,50;11160168,19;10475071,38;11386349,96;10640817,47;11336030,28;10606465,07;10742812,44;10091048,76;9571714,81;10699503,66;11613016,25;9515920,85;12872004,45;12353310,44;12888827,03;13075400,99;13213817,60;13294634,31;13153593,04;13652544,87;12942505,99;12272024,78;13763300,23;13693244,07;13975281,25;12960918,44;13077509,32;14081550,96;13930180,98;13010354,42;12796805,21;13667927,81;13356719,54;13551289,90;14108465,83;13871428,09;14155263,87;14213672,90;14705320,90;13632520,70;15377328,88;14675957,26;13417387,55;15167852,35;13512824,66;12434127,23;16107960,68;14820836,97;14616622,36;13433671,61;15759566,22;15565943,97;14078641,23;14275735,70;14363579,27;13095433,44;12885176,99;12865116,04;14439496,30;16240102,74;16312407,86;17005336,63;15550082,29;16128609,19;16663333,82;16560472,11;15772283,74;14467193,79;13929217,24;15175887,55;15826709,05;15179728,26;17609022,00;16326083,16;17620406,31;16897213,50;15659936,29;17260602,08;17190447,61;14552349,94;16415949,23;14663101,33;17349308,93;16485688,09;17479885,81;18357814,68;19032121,05;19083408,79;18625256,39;19305508,93;18323482,81;15732212,02;17598037,43;15944153,28;18561852,94;18551249,81;19174194,34;19665455,57;18710632,25;16407464,11;13341159,56;18596119,70;17338919,64;18965204,65;17531025,70;15915347,17;18088553,83;18346126,95;19111034,24;17755044,87;19054889,16;19795966,53;18795259,74;18444347,90;17298003,50;18311840,01;19130570,55;17631343,47;19842834,93;20774806,62;20789038,18;20137699,72;21652391,73;21629797,35;20189873,01;21332372,73;20581258,13;17227874,04;22503704,70;20181547,44;23086510,42;21820682,35;23588813,89;21530220,97;22229779,85;23120838,46;22455827,10;22262560,18;22920328,67;20947198,83;23095504,81;21643039,57;22434026,56;18738178,92;19443923,12;21466739,79;26302373,94;24929930,72;2477372149,60</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">&quot;25 Paraíba&quot;;10723002,45;11386274,47;12053643,87;12653528,76;12215107,11;12256928,49;12755413,77;12872578,37;12558296,11;12768727,85;12305712,88;13581860,46;13493164,47;13482978,09;14827006,61;15397556,53;16277442,59;15879160,72;15978811,22;15590347,89;16117680,24;15751691,59;15927662,69;15437528,74;15667869,73;14904848,47;16216133,65;16257606,55;16337751,46;16092332,67;16902253,36;16841142,04;15852904,31;15585573,68;15383927,63;15669807,38;15091719,50;15326392,08;15906613,12;15346420,06;15530835,49;14633766,02;15698533,59;15128556,76;15785458,75;15328867,04;14986456,40;15093025,15;13674516,54;13859126,01;15038829,37;14957359,90;15594376,19;14427177,03;15484361,07;15786852,82;16207805,08;14966724,85;15587687,25;14506296,46;15680898,40;14385685,07;16321921,55;16872009,72;17300529,52;16599314,18;16726432,62;16484782,86;17135693,88;16816763,07;15698764,75;16166997,73;16154064,40;15621266,78;14820967,48;17230194,63;15961997,56;16137548,05;16199002,92;16547389,24;16494346,20;16266620,26;15710026,42;17326679,55;15795012,65;14480740,53;16053726,73;15962948,78;15768417,41;16774733,11;16553311,93;16708149,42;16811722,12;16405613,74;14229559,30;14090969,82;13322414,10;17075239,87;16340636,71;16301872,15;16774465,25;16795120,27;15836692,00;17335283,11;16612200,96;15902954,28;15304390,51;15163126,53;15753142,07;15083831,63;17333812,39;16955476,06;17614909,30;16903390,86;17436413,89;18419340,61;18644534,22;18532729,35;18248446,20;17956094,16;16968876,36;17091922,12;17680495,15;18379177,97;18568272,05;18934577,55;19279685,95;19011606,67;18070790,31;18497122,25;18359742,42;17425267,96;18701777,09;18280230,48;19178379,93;18839657,83;21061830,25;19447508,70;19665224,24;20397259,96;19639512,12;19312269,13;19433952,51;18232875,68;17219271,14;17587015,11;17837235,04;16266320,82;14923484,69;17332974,95;26902438,72;22130016,81;2470550104,25</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">&quot;26 Pernambuco&quot;;14393949,89;24181400,95;29991302,71;34806197,97;32147987,35;32239094,89;32685640,76;35457038,66;33668261,46;30579747,51;31049830,56;36978451,28;31009217,35;32989186,42;35816570,57;35969258,01;38381369,46;37147961,64;37200037,82;37050387,71;37971068,17;39339518,15;38448709,00;36961718,24;35052507,08;32870997,66;36490461,92;39185802,19;39388462,04;38249606,84;36955723,87;40351864,49;37229907,82;40700808,63;41625911,29;39731003,01;38314655,92;38704974,94;38270479,93;43296812,53;43379503,12;42374590,03;44089917,21;44593739,90;42574100,91;46414565,03;42332627,96;41806199,96;42366739,76;40657147,53;42356775,79;46049107,38;45870310,23;47260740,98;45917428,60;46329282,68;45912255,55;45950600,84;48136622,77;45182474,26;45918510,20;46286498,91;49976492,24;51868968,30;55177829,24;54078037,35;55057140,10;56986957,30;57164851,07;59698786,84;53073903,75;59825272,68;53574898,27;54289579,09;53296924,53;57133438,18;60494904,81;58518383,00;60625402,78;60468979,19;63211650,92;62183620,21;62888953,97;56841236,06;57234817,11;55735690,30;58796396,86;59850086,94;62803941,06;64067286,88;60739524,74;62409022,55;59808747,40;57510985,60;62049537,57;55997430,18;58824239,37;57383866,85;60654457,30;59813025,14;62706675,50;62318151,51;63996670,41;63766089,53;62864173,51;62218424,19;57815722,37;60832058,72;61543259,12;58530231,23;66011432,62;62888623,19;70257954,75;69573373,69;69762828,96;68099323,25;67999680,35;66978897,02;64734221,71;65819921,92;64529749,62;59258351,04;67792662,95;66491472,88;71014021,26;68679138,11;70741826,35;70554341,99;66806054,81;67067611,96;64375684,10;63347814,94;66767187,21;63012036,07;65485622,52;65026872,36;71675203,64;68052177,03;71002753,56;70105175,96;69751772,00;73231387,37;69912310,76;65707157,96;70148903,54;64813148,37;66199027,74;49206139,44;58837630,45;63987469,53;74192800,58;75704177,72;8046954289,39</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">&quot;27 Alagoas&quot;;6243726,32;8376622,16;8408336,22;9090794,82;9338771,45;10068210,08;9887061,61;9373432,00;9563580,50;9805242,71;9483679,98;9587276,26;9118308,54;9492457,06;11050019,89;11833838,52;11964555,99;11469923,64;11073104,51;10717711,38;11170853,09;11884312,16;11491215,89;11619807,05;11867279,43;10207108,49;11653866,56;13088703,56;12218895,41;11290459,20;12842411,57;12085466,59;12138067,36;11614892,98;12115995,59;11714057,19;12011224,69;11918819,26;10780789,12;12947105,72;12951346,50;12295219,31;13134894,81;12903741,77;12967407,41;13288222,37;11999461,01;15330868,88;11258052,59;11783526,18;12618040,72;11821517,67;13074948,36;13362934,23;13065460,57;12660246,70;12608997,56;12663868,38;11078766,28;12624097,09;11618652,16;12563171,21;13387565,87;14244351,49;14640837,09;13627929,53;15834288,76;14375114,59;14858651,80;16091499,26;13908428,30;14841404,05;13609870,68;12422025,11;12478218,37;13312077,86;13872465,48;13025539,55;14188201,78;14451144,57;13709145,08;14464302,80;14537796,19;13514366,94;14106631,62;14275439,26;14668358,96;14271782,14;15688044,36;14905770,86;15992067,88;15416076,33;15489051,96;14800526,97;13793847,62;14354103,69;14327679,14;14293807,39;14554654,23;13999759,98;14724606,19;15443908,31;15573956,75;15475529,10;15561671,96;14764824,13;14669628,67;14192533,17;15129171,85;15038456,12;16130532,16;15743174,63;16086575,66;16042875,36;16846127,29;16928567,14;15886458,95;16596937,09;15508260,93;15903174,01;16127151,16;16062136,29;15913321,52;16901210,99;17026428,59;16339905,36;17908975,59;16793811,48;18119580,37;17126145,58;16925355,78;15765092,87;15858616,49;17064476,64;17027823,71;16458514,97;17039962,66;17802731,50;18399929,39;16915520,06;16913798,57;17740071,36;16610757,56;16954034,95;16912758,44;15856893,58;16013809,02;15048537,21;14409211,16;15401094,32;18351680,84;19754741,78;2104405303,11</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">&quot;28 Sergipe&quot;;2780750,11;3676483,16;5051473,61;5046063,36;4741151,56;5401259,63;5521904,44;5238398,50;5187912,19;4584068,70;4096786,86;4112620,16;4087554,91;4066137,68;5347746,85;5864474,02;6673113,20;5608324,33;5805868,80;5751986,48;6341601,06;5872206,67;6417612,33;5901811,49;5891195,29;5110036,54;5573525,84;7526762,19;8000159,57;5730613,66;7086244,47;7423825,48;6824254,36;6379269,17;7250384,04;5724769,61;7159572,71;5757338,71;7038966,36;6678909,21;6444423,80;5743888,41;6838013,10;7353107,85;6479016,81;7171748,35;5929696,29;6228992,25;6656143,67;6037494,41;7259238,57;7969461,13;6895848,45;7618788,42;7232613,44;7433346,82;6740007,46;6905144,37;6544005,70;5908122,76;6301344,38;7080123,24;8271668,02;8462593,98;7741746,70;6154093,13;8083772,83;7267573,20;6949523,59;6678771,08;6586368,06;6439479,68;6477148,65;6945872,51;6836562,27;6787461,29;7155130,38;7343528,74;7230138,87;6362749,71;7504906,40;7425864,90;7171541,46;6708175,23;7532979,25;6755440,98;7478153,76;8097711,61;8308576,63;7828944,90;8877007,24;9129892,18;8692417,03;8771323,27;8052546,55;7141336,77;7920697,54;7364587,54;8458296,32;9075164,55;9427424,70;8294758,44;10003202,01;16003933,99;5751946,44;6199962,79;6644582,06;7118708,08;7720209,82;7541775,26;7749421,92;7767046,51;9047436,87;8441039,71;8291702,97;9552486,43;8870825,75;9178431,79;7967802,82;7678925,80;8077634,45;7374349,70;8375279,36;9020646,60;9710691,40;8025780,50;9766114,15;10198444,73;9121714,70;10097590,01;9139082,28;8405178,91;9870763,46;9577713,59;9745805,83;10183910,27;11014405,78;9397452,52;9931458,04;9628184,03;10011078,87;10464026,39;9199453,13;8463411,72;9691241,43;9325631,63;8093465,51;8589154,91;8026929,31;8057935,10;10313262,56;11014180,89;1130337049,71</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">&quot;29 Bahia&quot;;21211522,47;28189304,95;34181483,52;39026934,13;42949566,82;47025972,04;47481695,17;46931248,28;44883379,31;41920011,46;37524744,74;44878936,74;39955776,96;43111707,75;49779947,78;50014602,82;48790551,80;49132821,82;51239968,87;52458246,42;53839068,59;51437189,65;51511419,22;49837755,53;49529112,74;47153215,38;53611971,89;54059176,28;51822435,06;48193723,43;52055936,39;55169480,09;51149469,04;52998868,51;51110199,55;49797380,31;50762560,42;49506095,15;53676261,91;56230829,44;51277301,85;52554007,19;57665345,91;55394871,04;55853815,24;55020722,47;56426958,02;52119762,31;51471366,43;51583789,94;61114469,80;56470860,17;58956342,68;57286133,46;57579666,12;58850187,01;55721890,10;59174699,98;54834519,31;50805585,16;50918730,11;48031764,26;54689483,04;60346839,48;62215989,21;59468051,13;65904256,49;64805007,17;62744830,56;65845122,34;59141216,79;58290022,86;63767811,64;59915191,91;59681681,98;60920671,82;61351092,40;60026773,48;65897253,07;66456740,35;67963557,89;67904878,33;62281320,06;61537833,98;63402850,90;57533415,71;65862065,38;61002105,89;64941469,92;64000633,85;66956753,66;70145059,10;70375191,33;70212728,60;69467563,02;61697271,10;64491582,81;61030296,44;67596522,73;68946797,31;69703669,34;67427693,07;70499941,20;71275142,55;72316907,37;70322056,89;63620328,18;62906303,19;64397235,43;64634686,08;68690380,93;65626958,50;70176833,67;72870964,12;63845395,83;63756542,98;72195775,69;78409447,23;71987968,64;64648373,69;68048653,42;64475039,37;67301935,64;70138190,99;72015638,15;68213323,07;73412542,78;74505873,73;71525882,45;74899242,26;73898802,66;67083996,92;69943903,44;63037987,20;70631313,03;75656871,01;74930902,09;72311955,53;78145958,78;79465336,35;75612489,42;75333078,55;73597019,20;71008469,66;72991394,38;70075979,41;73142147,20;62651140,03;64010810,67;69567655,48;83992134,91;80793117,08;9193802684,16</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">&quot;31 Minas Gerais&quot;;45671659,76;70194037,10;79231336,95;77136537,58;80554440,63;94758522,83;85360064,11;84722528,10;84601757,95;85559789,46;78329947,11;86917741,55;91374305,25;90153672,61;95290591,54;94091211,77;99076844,10;96189182,42;102754354,58;100080062,68;96911075,38;97956440,66;100726279,56;95354390,87;99017646,65;91519360,96;101602091,09;102020854,18;103346519,08;102489257,42;104427655,72;104334532,58;102057421,34;102296496,62;104624739,27;106029536,34;102848906,27;103097090,32;107148899,31;109395956,79;110963598,17;108798032,84;116882816,72;115819574,80;113941917,09;112266703,41;110320105,12;110247403,77;112999034,01;105365898,59;119320557,57;111508097,76;121916151,51;118620976,90;121071900,91;122660876,69;119912767,26;121329100,35;113629259,71;114180460,13;119841497,71;112610685,52;121483683,65;124223697,86;127149290,72;126778002,58;133371287,56;131609929,58;128782017,60;135027742,21;130065097,45;127030340,34;136493783,76;129567056,45;134327948,58;128639295,94;150031401,10;136128076,87;143612291,68;141144140,70;140835377,94;143611717,16;142982819,59;131466757,03;135056583,03;133803975,56;138617701,25;140005981,33;144748910,83;144903538,07;144893205,49;138309905,27;144319825,80;137803335,40;136740757,97;135735883,04;133990193,49;129427381,01;141285627,04;135370676,14;139139544,95;145843989,35;141622724,90;142810729,59;138557655,19;132905509,36;133811593,10;143174363,93;139000446,94;131306326,84;145820665,37;135720879,19;147516450,71;143284103,88;146849636,29;152645703,34;144488574,05;143939472,31;145123339,34;142848565,53;143158486,97;136705143,41;149829968,56;149894503,75;151546897,83;151514201,61;156680218,93;154281495,01;153867888,29;151228318,67;144867656,44;146715346,61;154066649,81;147968852,80;153459790,69;156777495,40;162963014,15;154830086,49;166207471,07;164287071,70;156567882,88;165120780,19;153006371,54;153880105,15;159196641,54;150118896,34;142773027,09;133340766,09;133388804,72;139699763,30;164891823,64;168024412,95;19160106499,88</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">&quot;32 Espírito Santo&quot;;5456723,98;9102212,86;10249595,97;11253833,56;10198619,17;13364258,29;13035374,08;12588595,77;12727433,30;12656039,16;11456719,61;13797101,01;11872595,72;13159401,04;14112825,59;14441001,76;15869485,76;14289482,15;14759638,93;15682021,10;15382323,46;15580269,47;14614727,18;13389707,31;15195270,91;14089292,07;14860459,56;14590678,01;15551855,16;15094272,62;15891427,56;15427295,84;16004656,88;16310380,44;15484092,44;16640338,44;16133664,94;15161413,45;17382070,61;16934270,53;17758849,96;17172311,80;17380509,20;18970124,29;17551488,15;17970035,30;17364792,54;17496329,94;17222804,98;16751995,85;18471537,46;18456884,51;17628111,36;18107658,11;19023115,07;18953444,62;19670500,59;18950349,09;18894552,12;18281712,15;19224431,53;19035509,92;20294734,35;19595507,02;20265267,40;19658552,70;20401161,29;19998670,93;20451848,80;20131302,49;20389116,78;19058737,26;19749178,48;19147207,72;19151706,66;19881203,54;22294881,78;21299915,99;22526747,71;21969999,69;21982043,34;22883793,84;21793404,47;20417854,69;20117941,26;20664919,35;22382068,17;21407331,21;22264266,78;22284122,22;25025991,97;23401404,52;20833822,54;23424337,52;23991085,58;21437787,54;23779563,66;22790048,27;23715873,33;24827565,42;24109597,33;25658817,37;25169057,16;26725024,24;25338983,15;24619233,74;24316581,95;25928484,84;25007676,62;24191191,04;25308292,40;25031483,52;26638696,23;27029630,04;26530798,94;25867248,28;25262466,33;26309234,34;26485310,14;25493804,70;26870384,24;24762482,38;23992070,32;25580754,91;27047091,49;24431385,84;25130378,43;26009340,50;24685731,90;26243877,36;24170075,47;24502056,39;25005409,89;24433360,41;24489441,43;23966073,21;27678894,71;26257287,18;29321032,62;28080023,93;27494948,06;28981301,17;26560507,36;27447261,00;27904907,76;26290107,37;26533465,80;25035646,74;29020427,51;28942645,28;33290880,33;32188873,88;3139189177,73</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">&quot;33 Rio de Janeiro&quot;;23025258,52;28394310,93;44567062,94;44054604,82;44911021,15;48056212,24;49872379,35;50912706,60;49270352,76;46434912,38;39907347,52;50581613,99;46203403,72;47094280,97;50808893,61;49188045,37;54038727,15;50720818,82;55050238,31;56202711,73;52027721,77;52063748,46;54304571,03;49771259,00;47245572,10;50655914,79;56116554,62;52070900,49;59396969,31;56866124,20;59807297,10;60274646,13;56849693,50;56972506,41;56226392,98;55766722,97;54468513,71;54490908,51;57189879,36;57530534,48;59415082,81;57500360,18;58719374,31;57725444,31;55988073,56;57067173,47;56007787,96;58500361,63;51490876,25;51218829,70;59050888,79;55713082,39;59308548,57;60946256,26;62570275,17;62562491,19;57819515,13;60680111,32;55508626,73;52938007,54;54498497,26;54241542,90;58103343,77;58179861,28;62951717,89;59378002,02;64397115,39;63688998,65;62549624,21;61105229,32;60723561,83;58602336,51;58579495,92;60080402,85;57850576,52;62325535,05;65792128,61;61276603,47;68295078,12;69883172,98;68072842,20;69180379,79;64122033,95;60517923,03;62439111,76;63737825,01;67666582,00;68284851,49;68751291,66;68009071,62;74284468,07;68985578,96;69994977,82;70135244,00;67375667,22;65073606,21;65228967,96;63377219,74;68530109,14;65491071,88;64788535,97;64647322,21;68974994,76;68889555,91;65722866,90;64254090,02;63295431,25;67082136,55;62062074,30;63262857,88;70614050,49;66831641,30;74203708,15;72248657,15;75302602,85;77717421,67;72622372,14;74953056,26;72548265,05;71176514,15;72530675,81;70910964,45;75601732,47;75998173,43;78033245,14;77683410,80;83733892,75;80453782,86;77382979,88;79404597,67;75075912,42;71286431,83;80140801,94;73535570,78;76151310,63;75853453,40;86637168,69;80125747,75;89924590,66;85720860,09;82971188,30;86392490,58;80843671,61;78579849,30;83186258,72;76116203,22;77004637,47;71403516,21;85094073,33;91507444,94;98722687,54;95274486,35;9696364115,11</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">&quot;35 São Paulo&quot;;91678473,48;148677526,82;156087269,23;161227125,43;187119397,64;187291126,07;194398399,48;184854516,35;188636359,55;179706467,00;167990352,53;191857317,83;182797194,35;186855294,82;212777859,48;203186114,01;217040531,70;217195249,91;220761157,51;232536720,14;220292973,66;221987951,33;220117480,90;209094405,40;214565774,66;203116173,19;227248380,06;231543598,66;230188803,42;226021072,14;229662643,34;234530618,12;233453453,42;221127119,42;239790045,49;236929144,68;227533337,27;231062206,94;241947462,16;236443416,78;244464657,96;234179405,30;250900143,56;245433156,23;245477472,67;244204324,99;244074129,17;242364979,83;235839968,05;230716054,24;249733962,44;240380166,02;253235916,28;241125908,14;250433088,40;259627680,85;246700090,17;250015664,22;243228929,76;227461193,24;247848715,73;241953732,90;247865862,02;266015472,79;270783169,81;259417406,52;268765294,72;279842025,94;272324278,88;278881855,29;256752830,37;246881134,19;265709306,06;255681908,92;259597103,91;266474985,23;278068997,58;271417662,79;290420948,86;291009942,02;278611485,21;279890804,12;268999975,41;262125680,41;269018430,46;253476434,09;278016320,66;274325335,52;279334056,66;279844623,28;285370920,13;283869182,00;278323247,75;272986136,83;261805996,29;268851109,12;257988814,37;261132865,95;276567893,05;273412228,88;276006348,57;288616077,72;289939692,70;285504373,50;280625651,53;271080917,37;270459042,05;273722267,98;265667602,28;253804030,03;284405443,35;267260974,12;296851092,99;270596412,47;297881361,74;297309345,90;280813753,04;285740593,74;280768835,63;280080500,10;279203782,81;269524844,81;286775733,92;289711791,16;293104281,74;287922148,67;291524922,05;298702204,56;282739086,76;295671659,07;283947815,42;283179040,80;298180056,65;279427204,24;288819396,39;297834670,24;303889049,22;293587709,50;305033842,80;313868712,55;298547868,27;310847061,00;292851698,72;284749770,52;304505286,22;288872273,89;297335842,20;251320040,41;272486957,70;306425499,30;366721243,71;346512263,17;38929549655,89</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">&quot;41 Paraná&quot;;38266347,46;55384670,52;53801318,85;52460306,69;54419620,71;57811688,48;58094241,83;56982774,90;57549082,26;57121887,41;53117936,61;63910909,46;64523066,04;60783727,39;65633573,31;64759375,78;65902215,41;66280753,00;69158603,32;68256573,41;65843824,73;66394412,26;66395558,19;67070814,17;65492818,75;62237724,45;70702537,78;70374693,61;72058180,69;71935547,82;72371869,39;74708055,69;72785908,90;72851750,47;75595725,52;74366096,98;75110313,47;72128616,95;73759982,82;76599030,33;75660652,68;77258175,98;80842051,59;80617519,85;75549674,67;77593673,00;76544478,19;77258303,28;76039530,59;72807882,01;77076883,24;76143545,10;83336990,84;80649521,02;81927587,90;84130063,75;78536950,50;83285621,69;81594702,93;76270832,45;79500038,93;75028184,23;80703730,00;87106955,67;87399406,72;86697435,96;87769698,09;88057167,22;90365634,46;88122492,89;87591159,75;82588891,73;83584617,32;85435762,12;83641160,75;85205955,97;90028735,19;87870952,45;90698407,25;93643329,76;93539983,04;93513605,52;90920897,47;85093676,96;86815580,94;84176293,14;91071048,29;90305345,86;92363932,23;93872517,26;95718229,92;98916070,85;95128845,06;96186825,16;96160859,00;96048736,40;93783253,43;93084827,52;100050041,15;98382855,34;104543901,52;103377082,72;108340437,09;106455448,92;107336203,74;104805099,88;102244280,05;102217981,44;101336658,86;100907457,85;108922320,46;108702876,03;111362259,15;110695749,67;116359245,54;117872309,11;111878379,52;115332028,47;114669021,47;115173908,32;118799559,86;110307818,83;116630188,99;120061032,48;121360733,68;122174618,88;124610255,04;127874482,35;123933024,51;125316844,05;125317336,68;117528767,93;122460918,04;119836506,38;123286810,02;120177202,18;126481772,97;125528571,51;125978907,59;126174536,45;126954366,08;131578320,06;127090701,66;117896293,89;122349509,69;127000113,31;117308075,66;94599403,51;107503816,77;96977288,37;109658360,43;129375911,54;13786964617,27</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">&quot;42 Santa Catarina&quot;;16504913,45;25651429,11;26743524,89;27181488,26;26845308,18;29909762,04;30789135,84;31250854,33;30019676,93;31957603,59;25115484,86;30778152,01;35330776,38;29003233,40;34665661,11;33835731,44;35240482,92;34559792,10;37817434,39;37259106,98;37380382,93;35782563,69;37345105,77;33887220,81;35965111,20;30499828,80;35106629,49;38016215,79;36075962,56;36549557,80;37410644,46;39238540,97;38081890,14;38789877,44;39827583,98;38814557,50;36415863,91;36721508,61;37996132,34;38421644,32;42835662,88;41189032,41;41758217,71;41684481,18;40922878,17;43202127,53;42472572,09;39321146,15;40492256,09;37022044,67;41483655,71;39783026,17;43805455,91;44046279,27;44667604,83;47341536,84;43359745,80;45156146,64;41573779,33;39219651,32;42289935,80;40639211,68;43594853,16;48625178,22;48118188,70;47911889,44;50571448,43;48955584,63;50829444,52;51491068,29;51684328,02;48372507,22;47993678,86;47288897,03;49012952,27;48053559,67;51823540,54;52051111,63;54238795,01;58563755,12;57996386,57;55718596,57;52622351,52;50644413,58;51654807,12;49243372,32;50778038,59;53032690,60;52438940,12;55880868,36;58530304,50;56690587,83;57889887,42;55737338,22;53674531,44;54165006,62;51122044,59;51193907,71;53003389,12;55051999,99;58462423,06;57758960,80;56650625,57;59500073,33;57825717,51;57782700,40;54981230,42;50520420,22;56881263,74;49307356,23;57799235,23;53445103,28;60332325,13;58396222,86;57247011,50;60460918,42;56263507,69;56883543,13;55604043,98;54055792,10;53712418,95;51298668,32;58770698,10;60288827,83;60659252,20;62213666,20;61278050,72;62730906,87;61636890,45;63327187,97;59766664,18;55708713,29;58896965,31;57420491,79;58250110,95;61028085,60;64937709,40;63504945,54;66591656,76;68439538,79;67131286,74;67946962,52;62694674,96;62332394,92;60158459,38;63618122,76;61740647,35;51544849,24;55111547,06;54457911,56;63467828,84;63972379,36;7324100054,96</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">&quot;43 Rio Grande do Sul&quot;;30931325,46;57363420,01;51547794,07;56673338,49;48397733,07;52413429,62;56636376,98;56113054,70;55356224,30;53637713,13;53699506,08;58730379,58;57629317,06;58779088,02;63366430,89;62200230,97;61683824,68;62495363,90;64614271,83;66457445,34;66425009,36;65782428,73;63714541,87;64488493,88;66304168,50;61527419,52;62490522,38;66814413,40;67900518,35;64799726,75;68518232,07;68731297,03;66174969,16;66891309,48;67456434,73;67096302,52;60754144,32;58884339,85;66205364,40;61549863,09;67005564,20;72791411,49;74300861,33;67837463,86;70064414,36;70232362,93;72554592,98;64881879,75;61611865,88;65535901,82;74336260,07;67549395,98;72179899,88;76773475,06;77774241,78;76499514,26;69764912,17;64839999,61;75459338,65;63899563,55;74162758,17;71198611,75;82497795,06;83507655,35;86819702,56;76192049,15;86985566,29;87188268,32;79988575,09;82136136,71;79836366,30;80089789,32;78857234,60;78537008,46;79394208,90;83278724,35;84494278,65;85828392,41;90610814,11;90068464,13;89050051,67;94005898,04;87733471,20;84122185,75;85079714,14;82133570,24;88517055,03;91301452,50;89895415,64;92114331,88;94943320,81;95063921,01;89867247,70;91025690,47;92841633,81;83952187,70;80130314,80;84811068,12;86491623,15;84052305,72;87840141,72;88088367,62;92470925,20;94272573,31;77466039,10;96934581,89;86678131,26;87399566,81;81109569,27;73212030,39;84033985,11;83238680,79;94756267,63;89585823,81;96174533,70;92176170,61;94228360,83;90655015,78;91242720,70;82934746,93;88817066,36;80572288,45;87419899,25;89396935,52;88148251,61;90754504,49;89093690,14;94010888,97;93664724,68;90025945,36;93081292,31;89050712,34;89664703,23;89259306,50;85585754,75;95152786,47;94163838,23;92237333,46;102298314,76;100260145,30;95917106,56;102331615,05;93971904,79;90775418,13;94908336,74;91437940,91;102876132,83;83000318,02;82381774,95;86051002,13;100531035,83;101374341,51;11958647088,33</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">&quot;50 Mato Grosso do Sul&quot;;5377392,11;7002472,61;8423933,19;8797487,68;9770421,80;10905392,18;10249299,82;9671553,45;10218511,05;9547923,55;9450010,19;8365709,79;10033643,71;10746263,10;10849523,03;10902848,13;11991649,26;12050259,66;12174950,98;11178470,01;11997775,92;11686533,15;10756188,43;10565385,71;12148432,58;11270972,80;11947693,50;11435565,54;12392541,52;12441459,98;12025317,84;12353546,78;12381792,58;12340247,31;12467693,91;12356930,32;11209008,55;9656677,02;13698836,79;12737864,70;12738474,58;12633049,75;12559402,36;12129099,22;14361439,67;10874502,14;13069914,91;13389627,18;11336531,77;10651807,08;12180801,70;12317346,21;12443933,58;13265423,50;13279583,97;13662778,57;14377772,86;12470857,74;13313610,74;13277404,70;12946929,06;13608114,30;13164501,21;12609170,80;14260317,31;14093759,27;15857368,44;14902081,06;14293864,54;15002648,55;13966637,66;13671203,55;14178988,87;14712594,52;14301089,67;13935980,51;14947928,02;14031496,40;14515549,98;15589135,54;14778200,02;14569813,14;14350887,34;14176127,30;14477250,54;15581963,71;16405826,87;14378228,39;16953490,49;16142201,57;15744546,46;15744530,43;16350747,05;15201350,63;14596998,67;14838491,41;16245064,73;15790962,76;16038560,10;15782658,52;15833939,83;15634796,95;16131310,92;16658359,76;16115694,41;15532297,35;15444859,93;15768541,90;16010162,90;14833749,68;17139379,75;14983940,40;16984929,81;15676843,15;16956118,78;17043069,32;17477126,81;15488155,75;16596703,72;15353997,67;16320629,25;18448053,83;16620321,36;16682027,02;17555832,83;17357780,20;17090876,79;16468255,95;17395858,50;16259261,13;16390075,24;15350893,92;17108719,02;17713810,57;16882690,96;18253870,27;17778458,45;18387822,48;19870933,20;18913862,69;19591383,84;18935437,09;17230688,81;17895244,76;18115134,64;19542439,88;19032785,73;17410262,53;17913161,92;17331445,92;18755557,92;19241624,02;2172157981,36</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">&quot;51 Mato Grosso&quot;;4795299,01;8684882,23;7886243,14;8794109,79;9231645,40;10221763,77;9163314,28;9243148,81;9052354,89;9677093,95;7150345,50;10421826,32;9939399,66;9332546,32;11965500,15;11185014,96;12058150,55;11635436,04;11698836,48;11823239,61;10810420,65;12130636,06;11574096,75;10726251,53;12364760,67;11382133,07;11947040,32;12233217,84;12656421,09;11263407,74;12795267,96;12805173,87;12171713,91;11961452,83;11777799,00;11142684,27;11709080,86;11149107,81;12381255,67;12391024,30;11574707,66;11449818,18;12067847,81;9872567,60;12340511,27;12154858,01;12738659,19;11617956,36;10194534,96;11052531,80;12697271,26;12825836,44;12437326,25;13819568,73;12861426,87;13387145,16;13107046,91;12085215,68;12762583,75;12387721,52;12315260,04;12145406,21;13140456,30;12884862,96;12872983,73;14087582,76;12649797,80;14132727,09;13040443,40;12555232,29;13696927,61;13233705,01;12201791,59;12981386,14;13290421,35;14139198,01;13625461,23;13885729,63;14604900,36;14816179,13;14011573,31;13164383,84;14562218,15;13413465,25;13106628,97;13769115,33;14166909,47;14411435,71;14599062,75;15156818,10;15407207,37;14798954,73;15115492,63;14543665,17;14619045,99;14220952,14;14767201,36;13712298,88;15442590,16;15108919,30;15651536,52;15809574,22;15578808,89;15684802,91;15561519,20;15505564,73;15319349,26;13805916,37;14035537,59;14149756,35;14898417,06;15584480,77;16651188,35;15509614,84;16372281,19;16231682,70;16044219,39;16146542,89;15487676,02;14770731,99;17253950,09;14789801,16;17498946,87;16279852,74;16103988,77;15883977,51;17163673,03;15569285,17;15630276,46;15838064,68;14815961,13;13853034,99;14229113,36;15288698,79;16045499,92;15890208,95;16092716,67;16699780,69;16314811,22;16763581,32;15608982,84;15855641,23;15811477,04;15029205,51;15249241,20;15046851,63;14886817,29;12546999,04;13604225,34;13151005,63;16371639,49;17790649,87;2036923784,59</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">&quot;52 Goiás&quot;;15310637,29;22258668,68;21442515,75;20921212,45;21615970,67;18270043,87;20540517,13;20650730,67;20868443,56;20621423,04;17094580,10;21615561,61;20678552,05;23043942,78;23334312,45;23508108,16;23947606,91;24369848,15;24577126,64;24372626,65;25227845,74;24746686,90;24628958,50;25524615,37;23352380,22;23520045,07;25369725,89;24404417,42;24987745,86;24954391,09;25711601,13;27198788,35;26672124,45;24964871,71;25671135,81;25260713,05;25171493,79;26401745,02;29060487,72;28091235,29;27756627,95;26664943,44;27544806,74;28147924,49;28970133,86;27443813,46;27361622,62;26782158,86;25857705,64;27578209,83;28903148,15;27888374,86;28508546,81;27394379,04;27650146,73;27972257,24;27593380,91;28225393,95;30257205,98;28219065,48;28347476,37;28863363,94;29219827,84;33852630,83;33590436,00;31125044,03;32961849,49;32744899,52;32463384,15;31059400,38;33423742,17;31214051,41;31924189,81;30615412,46;30729287,20;32789081,22;34129465,73;32395305,79;34486077,69;34263783,33;33627178,19;37301012,99;34133359,61;34549582,84;33440841,45;31986974,73;37406713,51;36037996,49;35411348,70;35037055,28;35106632,53;34847805,40;35124339,71;34872130,96;37247032,35;33761371,02;32681231,32;33686063,72;36509450,01;34722699,39;33438193,46;36011750,29;32794483,12;37294503,40;34824730,59;32901169,30;32290017,80;33456689,43;32130522,23;32012206,14;34551884,35;36415181,79;36185213,95;35061574,61;34374096,65;35314254,06;35452231,80;34270824,00;34456384,52;34331316,98;32756500,63;29752825,71;35353238,97;33126994,54;33321916,56;35536937,30;35009953,87;33899286,36;33936535,21;34482719,13;33695646,06;36347762,27;35162665,51;33658226,73;36733253,84;36260374,54;38159986,89;37236918,46;37769227,09;37979735,24;37470451,41;37308356,33;35709559,20;34873099,14;35775375,69;35005746,36;34793993,14;30896577,34;34305180,56;35701473,15;39405050,36;43984702,05;4657350310,70</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">&quot;53 Distrito Federal&quot;;4745919,19;7632480,67;9647203,26;11098732,99;12891719,72;12850125,67;12565646,74;13710857,89;13165106,20;15048607,23;11343166,62;14727561,06;12448821,12;10378991,59;13844384,56;13014468,49;15199322,19;15839446,00;14075642,84;15070287,19;14487053,32;14794759,93;13970147,70;12231919,68;14152357,41;12797956,47;14766108,89;14251503,37;13992321,87;13029712,13;13731431,47;14492891,90;13708967,72;13154297,48;14017191,90;13892860,69;13685193,15;12596227,92;13776613,55;16345138,08;16087910,83;13972734,93;14892283,19;13278491,41;13995426,70;15390923,50;13086852,04;13590252,81;14944337,60;14888269,73;15085751,32;15764896,19;15623435,15;15203425,01;16732021,78;15301810,45;13732745,93;14641131,30;14302872,91;13158172,40;13730031,45;16998661,27;16775306,73;15671887,83;17115118,36;14702150,22;16691669,00;17236499,61;15107266,26;14854365,16;14958687,90;13017400,37;15090216,44;14616475,96;15221939,61;13473947,21;16957865,71;16172537,49;16980186,15;18002789,25;15337916,23;15159510,18;14575006,32;13315735,02;12644597,01;12040195,19;15563562,72;16112136,23;15582635,39;15527125,83;16340464,89;15410729,64;15596456,16;12688880,22;15291317,52;14725799,59;14615505,46;13618348,62;17170356,14;17429303,96;18419489,00;18261439,85;15957484,01;18859728,02;14617687,82;15938065,89;17795635,56;17955606,46;17727684,85;17813104,88;18510105,96;16996973,92;15586295,88;14832061,10;15143253,69;16830062,39;18437945,84;18041562,15;18203173,03;17028868,46;17127571,95;18222787,66;20340897,78;20522181,19;20343407,23;21542121,59;22301468,16;23318726,05;20307075,79;18600258,14;16518323,98;13970506,60;20192152,35;18496333,16;22191795,70;18562231,92;20360779,48;20187082,38;22216154,63;23309181,24;17870194,68;17859596,85;19851940,18;18769437,77;22341629,09;20643441,06;22947163,99;21536505,16;19058243,91;22704335,27;25269773,34;26526196,39;2429933198,76</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">&quot;Total&quot;;408424859,23;613174269,21;664043058,38;686662861,42;715803639,49;752181563,64;764990284,76;750608648,28;752962642,15;733019065,83;668217112,19;775967936,72;750048621,47;756580984,60;841883163,67;825105702,99;865829006,02;852678163,21;880502474,71;892842134,58;873464467,51;875334799,09;869113618,52;841535492,90;852122488,89;808077868,10;890979883,27;902232888,98;914272019,18;890961283,39;911969093,24;931719029,98;906417815,92;896468825,34;925035608,16;910497564,03;892847303,12;884086911,42;932602653,02;940522457,53;948998132,79;938678314,96;983107236,67;960806905,24;963424009,31;964910919,88;952446801,10;945980820,15;918113192,67;900866905,04;990762955,07;957617712,15;1005719346,28;992473295,33;1011576096,62;1019945214,97;981455178,00;988862272,07;971962883,27;916766270,30;970771875,05;951988831,08;1014947867,61;1068797389,90;1095601589,12;1055013842,13;1109874484,86;1114566231,49;1097138530,42;1114110815,42;1065389149,58;1040159311,04;1073036456,41;1045983018,53;1056226871,45;1075172529,69;1143780931,69;1105617906,86;1166470112,11;1174196840,39;1160045625,96;1166760502,20;1126670624,77;1076446205,60;1097304031,31;1062267532,26;1145818906,77;1142901983,63;1167506052,47;1175384991,29;1204103667,59;1191449093,15;1179032733,69;1160339646,43;1149862166,83;1112012036,42;1103036733,54;1100574210,05;1167279265,94;1157783805,43;1183773531,02;1206461941,50;1214170276,07;1231014106,95;1176283472,86;1171270060,83;1138321585,77;1151134487,98;1140451128,38;1096974376,81;1213219782,09;1162847473,86;1257999444,55;1211182758,87;1254024061,19;1267479837,22;1237137847,98;1250387855,02;1225045404,11;1201828188,24;1218528578,16;1160580637,71;1249570771,57;1265569345,19;1279917419,73;1272860439,09;1301522302,13;1316621937,02;1272529253,15;1295988511,56;1254250943,37;1218448068,38;1288274303,46;1226614760,98;1274394154,87;1300440623,42;1357406940,64;1308302989,52;1373192361,38;1379322215,44;1336763817,20;1381299888,94;1313607369,36;1275299183,98;1327012673,40;1285698862,52;1285028958,07;1107368830,53;1193228111,21;1277909850,50;1471378812,46;1469130891,63;161830758554,04</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line"> Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"> Notas:</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line"> </td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line"> Dados referentes aos últimos seis meses, sujeitos a  atualização.</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line"> A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">      </td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">      Até maio de 2012 estas informações estão disponíveis como &quot;Natureza&quot; e &quot;Esfera Administrativa&quot;.</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">      De junho de 2012 a outubro de 2015, estão disponíveis tanto como &quot;Natureza&quot; e &quot;Esfera Administrativa&quot;, como &quot;Natureza Jurídica&quot; e &quot;Esfera Jurídica&quot;.</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">      A partir de novembro de 2015, estão disponíveis como &quot;Natureza Jurídica&quot; e &quot;Esfera Jurídica&quot;.</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">      </td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line"> </td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-primary border color-border-tertiary rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/alura-cursos/agendamento-hospitalar/blame/674f6ee61df9e6d359ce77dab5221459aca51391/dados/A151346189_28_143_208.csv">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/alura-cursos/agendamento-hospitalar/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+  </div>
+
+    </div>
+
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+</div>
+
+
+
+  </div>
+</div>
+
+    </main>
+  </div>
+
+  </div>
+
+          
+<div class="footer container-xl width-full p-responsive" role="contentinfo">
+  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 color-text-tertiary"></span>
+  </div>
+
+  
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+    <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+    <template id="snippet-clipboard-copy-button">
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-clippy js-clipboard-clippy-icon d-block m-2">
+    <path fill-rule="evenodd" d="M5.75 1a.75.75 0 00-.75.75v3c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75h-4.5zm.75 3V2.5h3V4h-3zm-2.874-.467a.75.75 0 00-.752-1.298A1.75 1.75 0 002 3.75v9.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-9.5a1.75 1.75 0 00-.874-1.515.75.75 0 10-.752 1.298.25.25 0 01.126.217v9.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-9.5a.25.25 0 01.126-.217z"></path>
+</svg>
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" height="16" width="16" class="octicon octicon-check js-clipboard-check-icon color-text-success d-block d-sm-none m-2">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+
+
+
+  
+
+  </body>
+</html>
+
