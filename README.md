@@ -6,6 +6,8 @@
 
 # Bootcamp: Data Science Aplicada 2
 
+Os modulos estão separados por partas. Em cada pasta tem subpastas com as aulas e os desafios.
+
 ## Lista dos modulos
 
 * Módulo 01: Python e pandas para análise de dados reais
@@ -26,7 +28,7 @@
 ## Cronograma
 
 Módulo |  Data de Inicio | Data de Terminio 
--------|-----------------|-----------------    
+:-----:|:---------------:|:----------------:    
 1      |  18/05/2021     | 30/05/2021   
 2      |  31/05/2021     | 13/06/2021 
 3      |  14/06/2021     | 04/07/2021 
@@ -34,7 +36,7 @@ Módulo |  Data de Inicio | Data de Terminio
 5      |  19/07/2021     | 08/08/2021
 
 
-## Módulos feitos
+## Módulos feitos até o momento
 
 - [ ] Módulo 01:
 - [ ] Módulo 02:
