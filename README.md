@@ -38,7 +38,7 @@ Módulo |  Data de Inicio | Data de Terminio
 
 ## Módulos feitos até o momento
 
-- [ ] Módulo 01:
+- [x] Módulo 01:
 - [ ] Módulo 02:
 - [ ] Módulo 03:
 - [ ] Módulo 04:
