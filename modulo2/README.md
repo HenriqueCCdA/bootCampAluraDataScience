@@ -10,8 +10,6 @@ Neste módulo seguiremos nas análises dos dados financeiros do SUS. Vamos mais 
 
 Fontes de dados externas serão utilizadas para enriquecer a análise exploratória e realizar comparações mais precisas entre os diferentes estados. Além disso, discutiremos mais sobre boas práticas de visualização, interpretação de gráficos e sua construção com o Seaborn.
 
-Vamos juntos e juntas, pois esse módulo está lotado de discussões interessantes!
-
 As aulas estão em um notebook na pasta aula e os desafios estão na pasta desafios
 
 ## Fonte de dados foram:
