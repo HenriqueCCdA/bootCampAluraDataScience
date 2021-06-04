@@ -25,5 +25,6 @@ As aulas estão em um notebook na pasta aula e os desafios estão na pasta desaf
 * Pandas
 * Matplotlib 
 * Seaborn
+* datetime
 
 [<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](henrique.ccda@gmail.com)
