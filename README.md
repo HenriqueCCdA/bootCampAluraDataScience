@@ -39,7 +39,7 @@ Módulo |  Data de Inicio | Data de Terminio
 ## Módulos feitos até o momento
 
 - [x] Módulo 01:
-- [ ] Módulo 02:
+- [x] Módulo 02:
 - [ ] Módulo 03:
 - [ ] Módulo 04:
 - [ ] Módulo 05:
