@@ -1,1 +1,1 @@
-```Fonte de dados: https://www.seade.gov.br/coronavirus/```
+Fonte de dados: https://www.seade.gov.br/coronavirus/
