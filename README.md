@@ -40,7 +40,7 @@ Módulo |  Data de Inicio | Data de Terminio
 
 - [x] Módulo 01:
 - [x] Módulo 02:
-- [ ] Módulo 03:
+- [x] Módulo 03:
 - [ ] Módulo 04:
 - [ ] Módulo 05:
 - [ ] Módulo 06:
