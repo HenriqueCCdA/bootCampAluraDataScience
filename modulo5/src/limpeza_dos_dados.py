@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def limpando_dados(dados):
     dados_limpos = preenche_tabela(dados)
