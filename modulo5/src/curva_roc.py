@@ -64,28 +64,29 @@ def classificao_para_um_limiar(y, y_prob, threshold):
 
   return fpr(fp,tn), tpr(tp,fn) 
 
-def curva_roc(y, y_prob, n_threshold=20):
+def curva_roc(y, y_prob):
   '''
   ------------------------------------------------------------------------------
   Calcula a curva roc
   ------------------------------------------------------------------------------
   @param y           - valores reais
   @param y_prob      - probabilidadas previstas
-  @param n_threshold - numero de limiares usados para fazer a curva roc
   ------------------------------------------------------------------------------
-  @return retorna a tupla (fprs, tprs):          
+  @return retorna a tupla (fprs, tprs, limiares):          
           fprs - taxas de falso positivo (np.array)
           tprs - taxas de verdadeiro positivo (np.array)
+          limiares - limiares utilizados
   ------------------------------------------------------------------------------
   '''
   fprs = [] 
   tprs = []
 
-  limiares = np.linspace(0.0, 1.5, num=n_threshold)
+  limiares = np.concatenate((prob, prob[0]/2.0, prob[-1] + 1.5), axis=None)
+  limiares = np.sort(limiares)
 
   for t in limiares:
     xi, yi = classificao_para_um_limiar(y, y_prob, t)
     fprs.append(xi)
     tprs.append(yi)
 
-  return np.array(fprs), np.array(tprs)
+  return np.array(fprs), np.array(tprs), limiares
