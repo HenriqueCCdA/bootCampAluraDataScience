@@ -81,7 +81,7 @@ def curva_roc(y, y_prob):
   fprs = [] 
   tprs = []
 
-  limiares = np.concatenate((prob, prob[0]/2.0, prob[-1] + 1.5), axis=None)
+  limiares = np.concatenate((y_prob, y_prob[0]/2.0, y_prob[-1] + 1.5), axis=None)
   limiares = np.sort(limiares)
 
   for t in limiares:
