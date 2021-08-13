@@ -41,8 +41,8 @@ Módulo |  Data de Inicio | Data de Terminio
 - [x] Módulo 01:
 - [x] Módulo 02:
 - [x] Módulo 03:
-- [ ] Módulo 04:
-- [ ] Módulo 05:
+- [x] Módulo 04:
+- [x] Módulo 05:
 - [ ] Módulo 06:
 
 [<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](henrique.ccda@gmail.com)
